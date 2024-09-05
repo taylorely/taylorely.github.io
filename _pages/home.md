@@ -1,12 +1,8 @@
 ---
-title: "Taylor Ely"
 layout: splash
 permalink: /home/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/Goatfish.JPG
-  excerpt: "                        "
+ image: /assets/images/Goatfish.JPG
 intro: 
   - excerpt: 'Hi! I am a PhD candidate at the University of Hawaii at Manoa in the zoology candidate.'
 feature_row:
