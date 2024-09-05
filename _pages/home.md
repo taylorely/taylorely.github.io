@@ -20,7 +20,12 @@ feature_row:
     url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--primary"
+  - image_path: /assets/images/Fig3.tiff
+    title: "Publications"
+    url: "https://scholar.google.com/citations?user=a0KyAdMAAAAJ&hl=en&oi=ao"
+    btn_label: "Google Scholar"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
-
+{% include feature_row %}
