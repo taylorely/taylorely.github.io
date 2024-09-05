@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My research focuses on using eDNA methods for large-scale community genetic studies.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I recieved my B.S. in Marine Biology and minor in Environmental Systems and Societies from the University of California, Los Angeles in 2018. In undergrad, I worked as a lab assistant in the Barber Lab and completed my senior honor's thesis focusing on the persistence of environmental DNA (eDNA) in a marine ecosystem. After undergrad I interned as an Oregon Sea Grant Scholar with the Oregon Department of Fish and Wildlife Marine Reserves. There I studied the recovery from sea star wasting disease in the intertidal. Then I worked as a lab technician in the Carlon Lab at Bowdoin College in charge of parrotfish gut content analysis using eDNA techniques. Currently, I am a PhD candidate in the Zoology program at the University of Hawai‘i at Mānoa. I study connectivity across the North Central Pacific using multiple techniques such as eDNA and oceanographic larval dispersal models.
