@@ -16,7 +16,7 @@ feature_row:
     url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Fig3.tiff
+  - image_path: /assets/images/Fig3.jpg
     title: "Publications"
     url: "https://scholar.google.com/citations?user=a0KyAdMAAAAJ&hl=en&oi=ao"
     btn_label: "Google Scholar"
