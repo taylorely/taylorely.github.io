@@ -4,7 +4,7 @@ permalink: /home/
 header:
  image: /assets/images/Goatfish2.jpg
 intro: 
-  - excerpt: 'Hi! I am a PhD candidate at the University of Hawaii at Manoa in the zoology candidate.'
+  - excerpt: 'Hi! I am a PhD candidate at the University of Hawaii at Manoa in the zoology program.'
 feature_row:
   - image_path: assets/images/P7070479.JPG
     title: ""
