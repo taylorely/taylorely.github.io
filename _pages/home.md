@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: 
+permalink: /home/
 header:
  image: /assets/images/Goatfish3.jpg
 intro: 
