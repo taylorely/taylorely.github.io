@@ -23,35 +23,9 @@ feature_row:
     url: "/larvalmodels/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
- intro2: 
-   - excerpt: 'Past Projects'
- feature_row2:
-  - image_path: assets/images/Fig2.jpg
-    title: "marine eDNA detectability"
-    url: "/eDNA/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/Unagi.jpg
-    title: "Unagi Mislabeling"
-    url: "/unagi/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/Damselfish.JPG
-    title: "Damselfish Farms"
-    url: "/damselfish/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
- - image_path: /assets/images/seastar2.JPG
-    title: "Sea Star Wasting Disease"
-    url: "/seastar/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
-{% include feature_row id="intro2" type="left" %}
-
-{% include feature_row id="feature_row2" type="right" %}
