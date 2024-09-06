@@ -39,7 +39,11 @@ feature_row2:
     url: "/larvalmodels/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-
+  - image_path: /assets/images/parcels.jpg
+    title: "Larval Dispersal Modeling"
+    url: "/larvalmodels/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
