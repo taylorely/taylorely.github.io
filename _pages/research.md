@@ -3,7 +3,7 @@ title: "Research"
 layout: splash
 permalink: /resesarch/
 header:
- overlay_image: /assets/images/Goatfish2.jpg
+ overlay_image: /assets/images/P6230256.JPG
 intro: 
   - excerpt: 'Need to add this'
 feature_row:
