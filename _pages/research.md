@@ -18,7 +18,7 @@ feature_row:
     url: "/connectivity/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/parcels.jpg
+  - image_path: /assets/images/Parcels.jpg
     title: "Larval Dispersal Modeling"
     url: "/larvalmodels/"
     btn_label: "Learn More"
