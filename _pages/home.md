@@ -11,7 +11,7 @@ feature_row:
     url: "/research/"
     btn_label: "Research"
     btn_class: "btn--primary"
-  - image_path: /assets/images/G0030956.JPG
+  - image_path: /assets/images/GOPR0950.JPG
     title: ""
     url: "/about/"
     btn_label: "About Me"
