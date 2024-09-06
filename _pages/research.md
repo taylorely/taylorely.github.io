@@ -23,6 +23,8 @@ feature_row:
     url: "/larvalmodels/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+intro2:
+- excerpt:'Past Projects'
 feature_row2:
   - image_path: assets/images/Fig2.jpg
     title: "marine eDNA detectability"
@@ -49,6 +51,8 @@ feature_row2:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row2"%}
 
