@@ -4,7 +4,9 @@ layout: splash
 permalink: /research/
 header:
  overlay_image: /assets/images/P6230256.JPG
-excerpt: "Marine Molecular Ecology I am especially interested in using environmental DNA (eDNA) methods for large-scale community genetic studies. My research currently focuses on connectivity across the North Central Pacific using multiple techniques such as eDNA and oceanographic larval dispersal models."
+excerpt: "Marine Molecular Ecology 
+
+I am especially interested in using environmental DNA (eDNA) methods for large-scale community genetic studies. My research currently focuses on connectivity across the North Central Pacific using multiple techniques such as eDNA and oceanographic larval dispersal models."
 intro: 
   - excerpt:'# Current Projects'
 feature_row:
