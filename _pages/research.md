@@ -26,7 +26,7 @@ feature_row2:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row3:
-  - title:'Past Projects'
+  - title: "Past Projects"
 feature_row4:
   - image_path: assets/images/Fig2.jpg
     title: "marine eDNA detectability"
@@ -50,7 +50,7 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
