@@ -6,9 +6,9 @@ header:
  overlay_image: /assets/images/P6230256.JPG
 excerpt: "Marine Molecular Ecology"
 intro: 
-  - excerpt:'I am especially interested in using environmental DNA (eDNA) methods for large-scale community genetic studies. My research currently focuses on connectivity across the North Central Pacific using multiple techniques such as eDNA and oceanographic larval dispersal models.'
+  - excerpt: 'I am especially interested in using environmental DNA (eDNA) methods for large-scale community genetic studies. My research currently focuses on connectivity across the North Central Pacific using multiple techniques such as eDNA and oceanographic larval dispersal models.'
 feature_row:
-  -title: "Current Projects"
+  - title: "Current Projects"
 feature_row2:
   - image_path: assets/images/P7201320.JPG
     title: "eDNA as a population genetics tool"
