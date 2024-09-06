@@ -2,7 +2,7 @@
 layout: splash
 permalink: /home/
 header:
- image: /assets/images/Goatfish2.jpg
+ image: /assets/images/Goatfish3.jpg
 intro: 
   - excerpt: 'Hi! I am a PhD candidate at the University of Hawaii at Manoa in the zoology program.'
 feature_row:
