@@ -24,24 +24,24 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: assets/images/P7201320.JPG
-    title: "eDNA as a population genetics tool"
-    url: "/popgen/"
+  - image_path: assets/images/Fig2.jpg
+    title: "marine eDNA detectability"
+    url: "/eDNA/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/P7271572.JPG
-    title: "North Central Pacific Connectivity"
-    url: "/connectivity/"
+  - image_path: /assets/images/Unagi.jpg
+    title: "Unagi Mislabeling"
+    url: "/unagi/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/parcels.jpg
-    title: "Larval Dispersal Modeling"
-    url: "/larvalmodels/"
+  - image_path: /assets/images/Damselfish.JPG
+    title: "Damselfish Farms"
+    url: "/damselfish/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/parcels.jpg
-    title: "Larval Dispersal Modeling"
-    url: "/larvalmodels/"
+  - image_path: /assets/images/seastar2.JPG
+    title: "Sea Star Wasting Disease"
+    url: "/seastar/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 ---
