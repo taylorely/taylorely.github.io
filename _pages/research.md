@@ -50,6 +50,18 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" %}
+
+{% include feature_row id="feature_row3" %}
+
+{% include feature_row id="feature_row4" %}
+
+
 # Publications
 
 **Ely TD^1**, Mukai GNM^1, Kobayashi DR, Marko PB, Moran AL, Wren JLK. In Process. Characterizing key sensitivities for modeling long-distance dispersal in the North Central Pacific Ocean. NOAA tech report 
@@ -96,13 +108,3 @@ Whitcome Research Undergraduate Summer Fellowship, 2017	($3000)
 UH News link here
 
 
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
-{% include feature_row id="feature_row2" %}
-
-{% include feature_row id="feature_row3" %}
-
-{% include feature_row id="feature_row4" %}
