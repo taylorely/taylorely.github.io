@@ -64,8 +64,8 @@ feature_row4:
 
 # Publications
 
-**Ely TD ^1^**, Mukai GNM^1^, Kobayashi DR, Marko PB, Moran AL, Wren JLK. In Process. Characterizing key sensitivities for modeling long-distance dispersal in the North Central Pacific Ocean. NOAA tech report 
-^1^ = co-first authors
+**Ely TD<sup>1</sup>**, Mukai GNM<sup>1</sup>, Kobayashi DR, Marko PB, Moran AL, Wren JLK. In Process. Characterizing key sensitivities for modeling long-distance dispersal in the North Central Pacific Ocean. NOAA tech report 
+<sup>1</sup> = co-first authors
 
 **Ely T**, Patten N, Naisbett-Jones LC, Spencer ET, Willette DA, Marko PB. (2023). Molecular identification of critically endangered European eels (*Anguilla anguilla*) in U.S. retail outlets. PEERJ. [Link](https://peerj.com/articles/14531/)
 
@@ -73,8 +73,8 @@ Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larva
 
 **Ely T**, Barber PH, Man L, Gold Z. (2021). Short-lived detection of an introduced vertebrate eDNA signal in a nearshore rocky reef environment. PLOS ONE 16(6): e0245314. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245314)
 
-Blanchette A<sup>1</sup>, **Ely T^1^**, Zeko A^1^, Sura S, Turba R, Fong P. (2019). Damselfish Stegastes nigricans increase algal growth within their territories on shallow coral reefs likely via enhanced nutrient supplies. Journal of Experimental Marine Biology and Ecology. 
-^1  = co-first authors [Link](https://www-sciencedirect-com.eres.library.manoa.hawaii.edu/science/article/pii/S0022098118304520)
+Blanchette A<sup>1</sup>, **Ely T<sup>1</sup>**, Zeko A<sup>1</sup>, Sura S, Turba R, Fong P. (2019). Damselfish Stegastes nigricans increase algal growth within their territories on shallow coral reefs likely via enhanced nutrient supplies. Journal of Experimental Marine Biology and Ecology. 
+<sup>1</sup>  = co-first authors [Link](https://www-sciencedirect-com.eres.library.manoa.hawaii.edu/science/article/pii/S0022098118304520)
 
 **Ely T**, Gold Z, Barber P. (2018). Investigating Temporal Variation in a Marine Environment. UCLA Senior Honors Thesis. 
 
