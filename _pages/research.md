@@ -44,7 +44,7 @@ feature_row4:
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/seastar2.JPG
-    title: "Sea Star Wasting Disease"
+    title: "Sea Star Wasting Syndrome"
     url: "/seastar/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
