@@ -1,3 +1,4 @@
+---
 title: "Seastar Wasting Syndrome Monitoring"
 permalink: /seastar/
 layout: splash
