@@ -80,6 +80,9 @@ Blanchette A<sup>1</sup>, **Ely T<sup>1</sup>**, Zeko A<sup>1</sup>, Sura S, Tur
 
 **Ely T**, Gold Z, Barber P. (2018). Investigating Temporal Variation in a Marine Environment. UCLA Senior Honors Thesis. 
 
+
+
+
 # Presentations and Posters
 
 Ely T (2024) "eDNA: a promising tool for population genetics" Albert L. Tester Memorial Symposium. Honolulu, HI
@@ -95,6 +98,9 @@ Ely T (2018). “Investigating Temporal Variation of eDNA in a Marine Environmen
 
 Ely T, Blanchette A, Zeko A (2017). “Territorial damselfish enhance nutrient supplies to algal turf in shallow coral reefs”. Marine Biology Quarter Symposium. Los Angeles, CA. 
 
+
+
+
 # Funding Support
 
 Graduate Research Assistantship under NSF grant # 2049672, 2020 and 2024 ($24,000 stipend)
@@ -108,6 +114,8 @@ NSF Graduate Research Fellowship Program, 2019	($37,000 stipend for 3 years)
 UCLA Undergraduate Research Scholarship Program award, 2017 ($5000)
 
 Whitcome Research Undergraduate Summer Fellowship, 2017	($3000)
+
+
 
 
 # Outreach
