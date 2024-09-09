@@ -20,7 +20,7 @@ feature_row2:
     url: "/connectivity/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Parcels.jpg
+  - image_path: /assets/images/ParcelsMap.jpg
     title: "Larval Dispersal Modeling"
     url: "/larvalmodels/"
     btn_label: "Learn More"
@@ -28,12 +28,12 @@ feature_row2:
 feature_row3:
   - title: "Past Projects"
 feature_row4:
-  - image_path: assets/images/Fig2.jpg
+  - image_path: assets/images/Fig2_2.jpg
     title: "marine eDNA detectability"
     url: "/eDNA/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Unagi.jpg
+  - image_path: /assets/images/Unagi2.jpg
     title: "Unagi Mislabeling"
     url: "/unagi/"
     btn_label: "Learn More"
@@ -43,7 +43,7 @@ feature_row4:
     url: "/damselfish/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/seastar2.JPG
+  - image_path: /assets/images/seastartrio.JPG
     title: "Sea Star Wasting Syndrome"
     url: "/seastar/"
     btn_label: "Learn More"
