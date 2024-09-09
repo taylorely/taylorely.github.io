@@ -107,6 +107,6 @@ Whitcome Research Undergraduate Summer Fellowship, 2017	($3000)
 
 # Outreach
 
-UH News link here
+[UH News story ](https://www.hawaii.edu/news/2024/09/08/research-voyage-marine-links-north-pacific/)
 
 
