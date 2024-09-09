@@ -29,7 +29,7 @@ feature_row3:
   - title: "Past Projects"
 feature_row4:
   - image_path: assets/images/Fig2_2.jpg
-    title: "marine eDNA detectability"
+    title: "Marine eDNA Detectability"
     url: "/eDNA/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
