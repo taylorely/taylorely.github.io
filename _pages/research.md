@@ -11,7 +11,7 @@ feature_row:
   - title: "Current Projects"
 feature_row2:
   - image_path: assets/images/P7201320.JPG
-    title: "eDNA as a population genetics tool"
+    title: "eDNA as a Population Genetics Tool"
     url: "/popgen/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
