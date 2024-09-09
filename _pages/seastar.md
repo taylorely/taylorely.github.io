@@ -13,7 +13,7 @@ feature_row2:
 
 {% include feature_row id="feature_row2" type="right" %}
 
-[2018 Seastar Survey Report](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/CV_TaylorEly_2024.pdf)
+[2018 Seastar Survey Report](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/Seastar_Survey_Report_2018.pdf)
 
-[2018 Coastal Biodiversity Report](http://taylorely.github.io/edit/gh-pages/assets/CV_TaylorEly_2024.pdf)
+[2018 Coastal Biodiversity Report](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/Biodiversity_Intertidal_Report_2018.pdf)
 
