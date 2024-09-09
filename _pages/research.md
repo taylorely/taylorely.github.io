@@ -33,7 +33,7 @@ feature_row4:
     url: "/eDNA/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Unagi2.jpg
+  - image_path: /assets/images/Unagi3.jpg
     title: "Unagi Mislabeling"
     url: "/unagi/"
     btn_label: "Learn More"
