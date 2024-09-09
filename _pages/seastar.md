@@ -2,6 +2,7 @@
 title: "Seastar Wasting Syndrome Monitoring"
 permalink: /seastar/
 layout: splash
+excerpt: "Seastar Wasting Syndrome Monitoring"
 feature_row:
    - image_path: /assets/images/seastarwasting.jpg
      excerpt: 'In April 2014 the sea star wasting syndrome (SSWS) epidemic spread to Oregon. This outbreak was more widespread and affected more sea stars than ever recorded. To add to the existing database on SSWS and increase understanding of its extent, the Oregon Department of Fish and Wildlife (ODFW) Marine Reserves Ecological Monitoring Team monitored SSWS at Otter Rock Marine Reserve and Cascade Head Marine Reserve. In 2018, while I was an Oregon Sea Grant scholar, I led led monitoring efforts of SSWS for the ODFW Marine Reserves. As part of the protected area within the reserves, these intertidal sites can provide valuable information on the effects of no-take management as well as the natural changes in sea star populations due to the wasting disease. Therefore, establishing baseline data of these previously unsurveyed sites followed by continued monitoring are important steps in assessing the spread of disease and the state of the sea stars in the reserves.'
