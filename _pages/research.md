@@ -38,14 +38,14 @@ feature_row4:
     url: "/unagi/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+ - image_path: /assets/images/seastartrio.JPG
+    title: "Sea Star Wasting Syndrome"
+    url: "/seastar/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/Damselfish.JPG
     title: "Damselfish Farms"
     url: "/damselfish/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/seastartrio.JPG
-    title: "Sea Star Wasting Syndrome"
-    url: "/seastar/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 ---
