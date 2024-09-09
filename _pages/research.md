@@ -98,10 +98,15 @@ Ely T, Blanchette A, Zeko A (2017). “Territorial damselfish enhance nutrient s
 # Funding Support
 
 Graduate Research Assistantship under NSF grant # 2049672, 2020 and 2024 ($24,000 stipend)
+
 E. A. Kay award in Zoology, 2023 ($2500)
+
 Edmondson Research Fund, 2020	($2000)
+
 NSF Graduate Research Fellowship Program, 2019	($37,000 stipend for 3 years)
+
 UCLA Undergraduate Research Scholarship Program award, 2017 ($5000)
+
 Whitcome Research Undergraduate Summer Fellowship, 2017	($3000)
 
 
