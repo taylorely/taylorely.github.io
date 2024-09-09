@@ -2,9 +2,9 @@
 title: "Short-lived detection of eDNA"
 permalink: /eDNA/
 layout: splash
-excerpt: "Short-lived detection of eDNA"
 feature_row:
    - image_path: /assets/images/Fig2_2.jpg
+     title: "Short-lived detection of eDNA"
      excerpt: 'Environmental DNA (eDNA) is increasingly used to measure biodiversity of marine ecosystems, yet key aspects of the temporal dynamics of eDNA remain unknown. Of particular interest is in situ persistence of eDNA signals in dynamic marine environments, as eDNA degradation rates have predominantly been quantified through mesocosm studies. For my undergraduate senior honors thesis project, I investigated in situ eDNA residence times. We introduced an eDNA signal from a non-native fish into a protected bay of a Southern California rocky reef ecosystem, and then measured changes in both introduced and background eDNA signals across a fixed transect over 96 hours.'
 feature_row2:
    - image_path: /assets/images/eDNA_CA.jpg
@@ -22,7 +22,7 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row4" type="left" %}
 
 Published paper is open access [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245314) 
 
