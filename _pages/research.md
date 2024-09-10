@@ -33,12 +33,12 @@ feature_row4:
     url: "/eDNA/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Unagi3.jpg
+  - image_path: /assets/images/Unagi4.jpg
     title: "Unagi Mislabeling"
     url: "/unagi/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/seastartrio.JPG
+  - image_path: /assets/images/seastartrio2.JPG
     title: "Sea Star Wasting Syndrome"
     url: "/seastar/"
     btn_label: "Learn More"
