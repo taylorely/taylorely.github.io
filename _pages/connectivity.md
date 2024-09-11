@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/60ef0b8b-5374-4054-b8a7-a319bc8c7aae)---
+---
 title: "North Central Pacific Connectivity using eDNA"
 permalink: /connectivity/
 layout: splash
