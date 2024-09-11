@@ -12,4 +12,4 @@ feature_row:
 ---
 {% include feature_row id="feature_row" type="left" %}
 
-[CV](https://github.com/taylorely/taylorely.github.io/edit/gh-pages/assets/CV_TDEly.pdf)
+Check out my CV [here](https://github.com/taylorely/taylorely.github.io/edit/gh-pages/assets/CV_TaylorEly.pdf)
