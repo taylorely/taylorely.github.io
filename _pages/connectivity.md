@@ -23,3 +23,5 @@ feature_row4:
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="right" %}
+
+Read about it on [UH News](https://www.hawaii.edu/news/2024/09/08/research-voyage-marine-links-north-pacific/)
