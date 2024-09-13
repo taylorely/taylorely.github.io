@@ -122,4 +122,4 @@ Whitcome Research Undergraduate Summer Fellowship, 2017	($3000)
 
 [UH News story ](https://www.hawaii.edu/news/2024/09/08/research-voyage-marine-links-north-pacific/)
 
-
+[Big Island Now Article](https://bigislandnow.com/2024/09/09/university-of-hawaii-voyage-to-wake-island-johnston-atoll-explores-links-across-pacific/)
