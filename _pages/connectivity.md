@@ -24,4 +24,4 @@ feature_row4:
 
 {% include feature_row id="feature_row4" type="right" %}
 
-Read about it on [UH News](https://www.hawaii.edu/news/2024/09/08/research-voyage-marine-links-north-pacific/)
+Read about it on [UH News](https://www.hawaii.edu/news/2024/09/08/research-voyage-marine-links-north-pacific/) and on [Big Island Now](https://bigislandnow.com/2024/09/09/university-of-hawaii-voyage-to-wake-island-johnston-atoll-explores-links-across-pacific/)
