@@ -14,4 +14,4 @@ feature_row:
 
 ### email: tely@hawaii.edu
 
-{% include feature_row id="feature_row" type="middle" %}
+{% include feature_row id="feature_row" type="left" %}
