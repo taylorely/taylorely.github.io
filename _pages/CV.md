@@ -9,10 +9,10 @@ header:
 
 click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/CV_TDEly_2025.pdf) for a pdf version of my CV
 
-<p align="center">Taylor Ely</p>\
-<p align="center">3598 Alani Drive, Honolulu, HI 96822</p>\
-<p align="center">(310) 245-0207</p>\
-<p align="center">tely@hawaii.edu</p>\
+<p align="center">Taylor Ely</p>
+<p align="center">3598 Alani Drive, Honolulu, HI 96822</p>
+<p align="center">(310) 245-0207</p>
+<p align="center">tely@hawaii.edu</p>
 
 
 # Education
@@ -20,13 +20,13 @@ click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/asse
 University of Hawai'i at Mānoa\
 PhD Candidate in Zoology\
 Started August 2019, current GPA: 4.0\
-Advisor: Dr. Peter Marko\
+Advisor: Dr. Peter Marko
 
 University of California, Los Angeles\
 Bachelors of Science in Marine Biology\
 Minor in Environmental Systems and Society\
 Graduated June 2018, GPA: 3.957\
-Senior Honors Thesis: *Investigating Temporal Variation in a Marine Environment*, Advisor: Dr. Paul Barber\
+Senior Honors Thesis: *Investigating Temporal Variation in a Marine Environment*, Advisor: Dr. Paul Barber
 
 
 
@@ -79,7 +79,7 @@ Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larva
 2017:      UCLA Undergraduate Research Scholarship Program award ($5000)\
 2017:      Whitcome Research Undergraduate Summer Fellowship at UCLA ($3000)\
 2016:      UCLA Promise Award Scholarship ($2000)\
-2014:      California State PTA Scholarship ($500)\
+2014:      California State PTA Scholarship ($500)
 
 
 
