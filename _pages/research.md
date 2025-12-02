@@ -60,6 +60,3 @@ feature_row4:
 {% include feature_row id="feature_row3" %}
 
 {% include feature_row id="feature_row4" %}
-
-
-[Big Island Now Article](https://bigislandnow.com/2024/09/09/university-of-hawaii-voyage-to-wake-island-johnston-atoll-explores-links-across-pacific/)
