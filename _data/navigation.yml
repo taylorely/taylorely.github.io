@@ -5,5 +5,7 @@ main:
     url: /research/
   - title: "About Me"
     url: /about/
-  - title: "contact"
+  - title: "CV"
+    url: /CV/
+  - title: "Contact"
     url: /contact/
