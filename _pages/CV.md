@@ -3,11 +3,13 @@ title: "CV"
 permalink: /CV/
 layout: splash
 header:
-  overlay_image: /assets/images/Anemone3.JPG
+  overlay_image: /assets/images/P6230256.JPG
 
 ---
 
-<p align="center"># Taylor Ely</p>\
+click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/CV_TDEly_2025.pdf) for a pdf version of my CV
+
+<p align="center">Taylor Ely</p>\
 <p align="center">3598 Alani Drive, Honolulu, HI 96822</p>\
 <p align="center">(310) 245-0207</p>\
 <p align="center">tely@hawaii.edu</p>\
@@ -109,99 +111,115 @@ August 2019  to current at University of Hawaiʻi at Mānoa\
 GRFP & NSF grant # 2049672\
 Dr. Peter Marko’s Lab\
 Investigating marine biogeography and population connectivity in North Central Pacific\
-  - Collected and processed ~2,000 eDNA samples for biogeography and population genetics analyses; analyzed in R with custom-made population genetics pipeline
+  - Collected and processed ~2,000 eDNA samples for biogeography and population genetics analyses; analyzed in R with custom-made population genetics pipeline\
   - Simulated larval dispersal into the Hawaiian Archipelago using python and OceanParcels
 	
 **Lab Technician**\
 February to June 2019 at Bowdoin College, Brunswick, Maine\
 Dr. David Carlon’s Lab\
-  - Processing parrotfish gut samples for MiSeq and qPCR 
-  - Created a protocol for laboratory and bioinformatics analysis designed for undergraduate students
+  - Processing parrotfish gut samples for MiSeq and qPCR\
+  - Created a protocol for laboratory and bioinformatics analysis designed for undergraduate students\
   - Managed lab upkeep including ordering supplies 
 
-**Oregon Sea Grant Summer Scholar**				                June to August 2018
-Department of Fish and Wildlife (ODFW) 
-Marine Resources Program, Newport, OR 
-  - Monitored sea star wasting syndrome (SSWS) and analyzed data from SSWS and biodiversity surveys in Oregon’s marine reserves with both univariate and multivariate statistics 
-  - Expanded the monitoring program through successful collaborations
+**Oregon Sea Grant Summer Scholar**\
+June to August 2018 at the Department of Fish and Wildlife (ODFW)\ 
+Marine Resources Program, Newport, OR\
+  - Monitored sea star wasting syndrome (SSWS) and analyzed data from SSWS and biodiversity surveys in Oregon’s marine reserves with both univariate and multivariate statistics\
+  - Expanded the monitoring program through successful collaborations\
   - Led a team of 3-7 staff and volunteers during intertidal field sampling 
 
-Undergraduate Research Assistant 			      	     October 2015 to June 2018
-UCLA, Department of Ecology and Evolutionary Biology, Los Angeles
-Undergraduate in Dr. Paul Barber’s Lab                                                  
+**Undergraduate Research Assistant**\
+October 2015 to June 2018 at University of California, Los Angeles\
+Undergraduate in Dr. Paul Barber’s Lab\                                                 
 Senior Honors Thesis: Investigating Temporal Variation in a Marine Environment
 
-Invertebrate Zoology Intern 				                           June to August 2017
-Smithsonian Institute, National Museum of Natural History
-Dr. Chris Meyer’s Lab, Washington D.C. 
+**Invertebrate Zoology Intern**\
+June to August 2017 at Smithsonian Institute, National Museum of Natural History\
+Dr. Chris Meyer’s Lab\
 Extracted tissue samples from ARMS across Indonesia and prepped samples for Sanger sequencing 
 
-Public Programs Intern						           May 2015 to May 2016
-Santa Monica Pier Aquarium, Santa Monica, CA
-  - Organized scientific talks including a talk with NASA JPL
-  - Created advertisements, social media posts, and displays using Canva
-  - Helped found the seabirds program 
+**Public Programs Intern**
+May 2015 to May 2016 at Santa Monica Pier Aquarium, Santa Monica, CA\
+  - Organized scientific talks including a talk with NASA JPL\
+  - Created advertisements, social media posts, and displays using Canva\
+  - Helped found the seabirds program
 
-Teaching
 
-Undergraduate Mentoring 							    April 2025 to current
+
+# Teaching
+
+Undergraduate Mentoring\
+April 2025 to current\
 Advise a student working with eDNA data in R to investigate life history’s influence on detections
 
-Environmental DNA team leader							         July 2024
-Larvae Across the Pacific Research Cruise 					              R/V Thompson 
+Environmental DNA team leader\
+July 2024\
+Larvae Across the Pacific Research Cruise on R/V Thompson\
 Trained and supervised a team of undergraduates and post-baccs to process environmental DNA samples
 
-Teaching Assistant 							         August 2019 to May 2020
-Ecology and Evolutionary Biology Lab and Invertebrate Biology		University of Hawaiʻi at Mānoa
+Teaching Assistant at University of Hawai'i at Mānoa\
+August 2019 to May 2020\
+Classes: Ecology and Evolutionary Biology Lab, Invertebrate Biology		
 
-Selected Graduate Courses
+
+
+# Selected Graduate Courses Taken
+
 An Introduction to place-based methodologies in Hawaiʻi; People and the Sea; Population Genetics; Systematics and Phylogenetics; Biological and Physical Oceanography; Advanced Statistics in R 
 
-Certifications
-•	Scientific Diving certified since 2016: 112 scientific dives
-•	CPR, AED, and First Aid certified 
 
-Professional Service
 
-Student Social Chair							 	 Spring 2025 to current
-Co-lead of weekly Pau Hana event for graduate students and faculty        University of Hawaiʻi at Mānoa
+# Certifications
 
-Navigating the Publishing Landscape Workshop						  October 2024
-Discussion panelist for graduate student perspective 		            University of Hawaiʻi at Mānoa
+- Scientific Diving certified since 2016: 112 scientific dives\
+- CPR, AED, and First Aid certified 
 
-Community Service
 
-Various workdays on Oʻahu 							             2024 to current
-Paepae o Heʻeia	; Ka Popo Loʻi o Kānewai; Waialeʻe Lake Pono; 808 cleanups; Kaiāulu ‘O Kahaluʻu,…
 
-International Save the Vaquita Day						     Sep 2024, Nov 2025
-Lead volunteer, ran an educational booth (reached 85 visitors) 			        Waikīkī Aquarium
+# Professional Service
+
+Student Social Chair\
+January 2025 to current at University of Hawai'i at Mānoa\
+Co-lead of weekly Pau Hana event for graduate students and faculty        
+
+Navigating the Publishing Landscape Workshop\
+October 2024 at University of Hawai'i at Mānoa\
+Discussion panelist for graduate student perspective
+
+
+
+# Community Service
+
+Various workdays on Oʻahu\
+2024 to current\
+Paepae o He'eia	; Ka Popo Lo'i o Kānewai; Waiale'e Lake Pono; 808 cleanups; Kaiāulu 'O Kahalu'u,…
+
+International Save the Vaquita Day\
+September 2024 and November 2025 at Waikīkī Aquarium\
+Lead volunteer, ran an educational booth		        
 	    	    	
-Various STEM outreach for kids			                            Mar 2020; Oct 2022; Feb 2023
+Various STEM outreach for kids\
+March 2020, October 2022, and February 2023\
 Kupu Hawaiʻi STEM outreach; Career Day at Dreamhouse HS; The Science of the Seuss Library Event	
 
-Leeward Science and Engineering Fair				                                  Feb 2020 and 2021
-Volunteer judge for environmental science and biological sciences categories			   online
+Leeward Science and Engineering Fair\
+February 2020 and 2021\
+Volunteer judge for environmental science and biological sciences categories
 
-Environmental Message of the Month					               Sep 2013 to June 2014
-Founded and ran this program to educate students and parents                Palos Verdes Intermediate School
-http://monthlyenvironmentalmessage.weebly.com/
+Environmental Message of the Month\
+September 2013 to June 2014 at Palos Verdes Intermediate School\
+Founded and ran this program to educate students and parents [Link](http://monthlyenvironmentalmessage.weebly.com/)              
 
-News & Media
 
-UH News Article 								            September 2024
-https://www.hawaii.edu/news/2024/09/08/research-voyage-marine-links-north-pacific/
 
-Reviewer for Journals
+# News & Media
 
-Aquatic Conservation: Marine and Freshwater Ecosystems
-Proceedings of the Royal Society B: Biological Sciences
+UH News Article from September 2024 [Link](https://www.hawaii.edu/news/2024/09/08/research-voyage-marine-links-north-pacific/)
+
+
+
+# Reviewer for Journals
+
+Aquatic Conservation: Marine and Freshwater Ecosystems\
+Proceedings of the Royal Society B: Biological Sciences\
 Molecular Ecology Resources
-
-<img width="470" height="644" alt="image" src="https://github.com/user-attachments/assets/313537b8-7ec9-4b4c-83ea-706036810860" />
-
-
-
-# Outreach
-
-[UH News story ](https://www.hawaii.edu/news/2024/09/08/research-voyage-marine-links-north-pacific/)
