@@ -9,8 +9,6 @@ header:
   
 ---
 
-## Please feel free to contact me about my research, collaboration, or anything else
+Please feel free to contact me about my research, collaboration, or anything else
 
-### email: tely@hawaii.edu
-
-{% include feature_row id="feature_row" type="left" %}
+email: tely@hawaii.edu
