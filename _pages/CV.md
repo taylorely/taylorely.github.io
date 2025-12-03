@@ -9,6 +9,9 @@ header:
 
 click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/CV_TDEly_2025.pdf) for a pdf version of my CV
 
+
+
+
 <p align="center">
 	<h1>Taylor Ely</h1>
 	<br>
