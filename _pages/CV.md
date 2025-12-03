@@ -23,7 +23,7 @@ click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/asse
 
 <h1>Education</h1>
 
-University of Hawai&#x02BB;i at Mānoa\
+University of Hawaiʻi at Mānoa\
 PhD Candidate in Zoology\
 Started August 2019, current GPA: 4.0\
 Advisor: Dr. Peter Marko
@@ -164,7 +164,7 @@ July 2024\
 Larvae Across the Pacific Research Cruise on R/V Thompson\
 Trained and supervised a team of undergraduates and post-baccs to process environmental DNA samples
 
-Teaching Assistant at University of Hawai'i at Mānoa\
+Teaching Assistant at University of Hawaiʻi at Mānoa\
 August 2019 to May 2020\
 Classes: Ecology and Evolutionary Biology Lab, Invertebrate Biology		
 <br>
@@ -186,11 +186,11 @@ An Introduction to place-based methodologies in Hawaiʻi; People and the Sea; Po
 <h1>Professional Service</h1>
 
 Student Social Chair\
-January 2025 to current at University of Hawai'i at Mānoa\
+January 2025 to current at University of Hawaiʻi at Mānoa\
 Co-lead of weekly Pau Hana event for graduate students and faculty        
 
 Navigating the Publishing Landscape Workshop\
-October 2024 at University of Hawai'i at Mānoa\
+October 2024 at University of Hawaiʻi at Mānoa\
 Discussion panelist for graduate student perspective
 <br>
 <br>
@@ -199,7 +199,7 @@ Discussion panelist for graduate student perspective
 
 Various workdays on Oʻahu\
 2024 to current\
-Paepae o He'eia	; Ka Popo Lo'i o Kānewai; Waiale'e Lake Pono; 808 cleanups; Kaiāulu 'O Kahalu'u,…
+Paepae o Heʻeia	; Ka Popo Loʻi o Kānewai; Waialeʻe Lake Pono; 808 cleanups; Kaiāulu ʻO Kahaluʻu,…
 
 International Save the Vaquita Day\
 September 2024 and November 2025 at Waikīkī Aquarium\
