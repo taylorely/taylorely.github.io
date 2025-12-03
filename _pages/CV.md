@@ -9,13 +9,13 @@ header:
 
 click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/CV_TDEly_2025.pdf) for a pdf version of my CV
 
-<p align="center">Taylor Ely</p>
-<p align="center">3598 Alani Drive, Honolulu, HI 96822</p>
-<p align="center">(310) 245-0207</p>
-<p align="center">tely@hawaii.edu</p>
+<p align="center"> **Taylor Ely**\
+3598 Alani Drive, Honolulu, HI 96822\
+(310) 245-0207\
+tely@hawaii.edu</p>
 
 
-# Education
+**Education**
 
 University of Hawai'i at Mānoa\
 PhD Candidate in Zoology\
@@ -30,7 +30,7 @@ Senior Honors Thesis: *Investigating Temporal Variation in a Marine Environment*
 
 
 
-# Publications
+**Publications**
 
 *First author or co-first author:*\
 **Ely TD<sup>1</sup>**, Mukai GNM<sup>1</sup>, Kobayashi DR, Marko PB, Moran AL, Wren JLK. (2024). Characterizing key sensitivities for modeling long-distance dispersal in the North Central Pacific Ocean. NOAA tech report.[Link](https://repository.library.noaa.gov/view/noaa/66043)\
