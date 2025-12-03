@@ -10,7 +10,7 @@ header:
 click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/CV_TDEly_2025.pdf) for a pdf version of my CV
 
 <p align="center">
-	<b>Taylor Ely</b>
+	<h1>Taylor Ely</h1>
 	<br>
 	3598 Alani Drive, Honolulu, HI 96822
 	<br>
@@ -20,7 +20,7 @@ click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/asse
  </p>
 
 
-**Education**
+<h2>Education</h2>
 
 University of Hawai'i at Mānoa\
 PhD Candidate in Zoology\
