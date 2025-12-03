@@ -23,7 +23,7 @@ click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/asse
  </p>
 
 
-<h2>Education</h2>
+<h1>Education</h1>
 
 University of Hawai'i at Mānoa\
 PhD Candidate in Zoology\
@@ -38,7 +38,7 @@ Senior Honors Thesis: *Investigating Temporal Variation in a Marine Environment*
 
 
 
-<h3>Publications</h3>
+<h1>Publications</h1>
 
 *First author or co-first author:*\
 **Ely TD<sup>1</sup>**, Mukai GNM<sup>1</sup>, Kobayashi DR, Marko PB, Moran AL, Wren JLK. (2024). Characterizing key sensitivities for modeling long-distance dispersal in the North Central Pacific Ocean. NOAA tech report.[Link](https://repository.library.noaa.gov/view/noaa/66043)\
@@ -60,7 +60,7 @@ Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larva
 
 
 
-<h4>Grants</h4>
+<h1>Grants</h1>
 
 2024 to current - **Jessie D. Kay Memorial Award in Zoology** ($10,000)\ 
 *What are the dispersal pathways for marine species to the Hawaiian Archipelago?*
@@ -76,7 +76,7 @@ Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larva
 
 
 
-<h5>Honor & Awards</h5>
+<h1>Honor & Awards</h1>
 
 2025:      UHM Zoology Graduate Program Achievement Scholarship ($1000)\
 2025:      Honolulu ARCS Scholar ($6,000)\
@@ -92,7 +92,7 @@ Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larva
 
 
 
-<h6>Presentations</h6>
+<h1>Presentations</h1>
 
 Ely T, Marko PB. (2025) “Population Genetics of Marine Species in Hawai‘i using eDNA”. Albert L. Tester Memorial Symposium. Honolulu, HI.  *won honorable mention for graduate student talks*
 
@@ -105,7 +105,7 @@ Ely T (2022) “Testing eDNA as a fine-scale population genetics tool in marine 
 Ely T, Blanchette A, Zeko A (2017). “Territorial damselfish enhance nutrient supplies to algal turf in shallow coral reefs”. Marine Biology Quarter Symposium. Los Angeles, CA. 
 
 
-<h7>Posters</h7>
+<h1>Posters</h1>
 
 Ely T  (2018). “Monitoring Sea Star Wasting in Oregon’s Marine Reserves”. Oregon Sea Grant Final Symposium. Newport, OR.
 
@@ -113,7 +113,7 @@ Ely T, Gold Z, Barber PH. (2018). “Investigating Temporal Variation of eDNA in
 
 
 
-<h8>Experience</h8>
+<h1>Experience</h1>
 
 **Graduate Research Assistant**\
 August 2019  to current at University of Hawaiʻi at Mānoa\
@@ -155,7 +155,7 @@ May 2015 to May 2016 at Santa Monica Pier Aquarium, Santa Monica, CA\
 
 
 
-# Teaching
+<h1>Teaching</h1>
 
 Undergraduate Mentoring\
 April 2025 to current\
@@ -172,20 +172,20 @@ Classes: Ecology and Evolutionary Biology Lab, Invertebrate Biology
 
 
 
-# Selected Graduate Courses Taken
+<h1>Selected Graduate Courses Taken</h1>
 
 An Introduction to place-based methodologies in Hawaiʻi; People and the Sea; Population Genetics; Systematics and Phylogenetics; Biological and Physical Oceanography; Advanced Statistics in R 
 
 
 
-# Certifications
+<h1>Certifications</h1>
 
 - Scientific Diving certified since 2016: 112 scientific dives\
 - CPR, AED, and First Aid certified 
 
 
 
-# Professional Service
+<h1>Professional Service</h1>
 
 Student Social Chair\
 January 2025 to current at University of Hawai'i at Mānoa\
@@ -197,7 +197,7 @@ Discussion panelist for graduate student perspective
 
 
 
-# Community Service
+<h1>Community Service</h1>
 
 Various workdays on Oʻahu\
 2024 to current\
@@ -221,13 +221,13 @@ Founded and ran this program to educate students and parents [Link](http://month
 
 
 
-# News & Media
+<h1>News & Media</h1>
 
 UH News Article from September 2024 [Link](https://www.hawaii.edu/news/2024/09/08/research-voyage-marine-links-north-pacific/)
 
 
 
-# Reviewer for Journals
+<h1>Reviewer for Journals</h1>
 
 Aquatic Conservation: Marine and Freshwater Ecosystems\
 Proceedings of the Royal Society B: Biological Sciences\
