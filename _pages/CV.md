@@ -10,10 +10,13 @@ header:
 click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/CV_TDEly_2025.pdf) for a pdf version of my CV
 
 <p align="center">
-**Taylor Ely**\
-3598 Alani Drive, Honolulu, HI 96822\
-(310) 245-0207\
-tely@hawaii.edu
+	<b>Taylor Ely</b>
+	<br>
+	3598 Alani Drive, Honolulu, HI 96822
+	<br>
+	(310) 245-0207
+	<br>
+	tely@hawaii.edu
  </p>
 
 
