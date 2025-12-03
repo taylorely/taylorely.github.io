@@ -39,15 +39,15 @@ Senior Honors Thesis: *Investigating Temporal Variation in a Marine Environment*
 <h1>Publications</h1>
 
 *First author or co-first author:*\
-**Ely TD<sup>1</sup>**, Mukai GNM<sup>1</sup>, Kobayashi DR, Marko PB, Moran AL, Wren JLK. (2024). Characterizing key sensitivities for modeling long-distance dispersal in the North Central Pacific Ocean. NOAA tech report.[Link](https://repository.library.noaa.gov/view/noaa/66043)\
+**Ely TD<sup>1</sup>**, Mukai GNM<sup>1</sup>, Kobayashi DR, Marko PB, Moran AL, Wren JLK. (2024). Characterizing key sensitivities for modeling long-distance dispersal in the North Central Pacific Ocean. NOAA tech report. [Link](https://repository.library.noaa.gov/view/noaa/66043)\
 <sup>1</sup> = co-first authors
 
 **Ely T**, Patten N, Naisbett-Jones LC, Spencer ET, Willette DA, Marko PB. (2023). Molecular identification of critically endangered European eels (*Anguilla anguilla*) in U.S. retail outlets. *PEERJ*. 11: e14531 [Link](https://peerj.com/articles/14531/)
 
 **Ely T**, Barber PH, Man L, Gold Z. (2021). Short-lived detection of an introduced vertebrate eDNA signal in a nearshore rocky reef environment. *PLOS ONE* 16(6): e0245314. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245314)
 
-Blanchette A<sup>1</sup>, **Ely T<sup>1</sup>**, Zeko A<sup>1</sup>, Sura S, Turba R, Fong P. (2019). Damselfish Stegastes nigricans increase algal growth within their territories on shallow coral reefs likely via enhanced nutrient supplies. *Journal of Experimental Marine Biology and Ecology*. 513: 21-26\
-<sup>1</sup>  = co-first authors [Link](https://www-sciencedirect-com.eres.library.manoa.hawaii.edu/science/article/pii/S0022098118304520)
+Blanchette A<sup>1</sup>, **Ely T<sup>1</sup>**, Zeko A<sup>1</sup>, Sura S, Turba R, Fong P. (2019). Damselfish Stegastes nigricans increase algal growth within their territories on shallow coral reefs likely via enhanced nutrient supplies. *Journal of Experimental Marine Biology and Ecology*. 513: 21-26  [Link](https://www-sciencedirect-com.eres.library.manoa.hawaii.edu/science/article/pii/S0022098118304520)\
+<sup>1</sup>  = co-first authors
 
 *Others:*
 Nichols PK, Sherwood AR, Fraiola KMS, **Ely TD**, … & Marko PB (2025). Detection of a Non-Indigenous Marine Macroalga (*Acanthophora spicifera*) With Environmental DNA From Surface Seawater.  *Aquaculture, Fish and Fisheries* 5(6): e70135. [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aff2.70135)
@@ -60,7 +60,7 @@ Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larva
 <br>
 <h1>Grants</h1>
 
-2024 to current - **Jessie D. Kay Memorial Award in Zoology** ($10,000)\ 
+2024 to current - **Jessie D. Kay Memorial Award in Zoology** ($10,000)\
 *What are the dispersal pathways for marine species to the Hawaiian Archipelago?*
 
 2023 - **Elizabeth Alison Kay Endowed Awards** for students in Biology/Zoology at the University of Hawai'i at Mānoa ($2500)\
@@ -129,7 +129,7 @@ Dr. David Carlon’s Lab
   - Managed lab upkeep including ordering supplies 
 
 **Oregon Sea Grant Summer Scholar**\
-June to August 2018 at the Department of Fish and Wildlife (ODFW)\ 
+June to August 2018 at the Department of Fish and Wildlife (ODFW)\
 Marine Resources Program, Newport, OR
   - Monitored sea star wasting syndrome (SSWS) and analyzed data from SSWS and biodiversity surveys in Oregon’s marine reserves with both univariate and multivariate statistics
   - Expanded the monitoring program through successful collaborations
