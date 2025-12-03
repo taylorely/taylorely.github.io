@@ -8,13 +8,11 @@ header:
 ---
 
 click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/CV_TDEly_2025.pdf) for a pdf version of my CV
-
-
-
-
+<br>
+<br>
+<br>
+<h1 align="center">Taylor Ely</h1>
 <p align="center">
-	<b>Taylor Ely</b>
-	<br>
 	3598 Alani Drive, Honolulu, HI 96822
 	<br>
 	(310) 245-0207
@@ -35,9 +33,9 @@ Bachelors of Science in Marine Biology\
 Minor in Environmental Systems and Society\
 Graduated June 2018, GPA: 3.957\
 Senior Honors Thesis: *Investigating Temporal Variation in a Marine Environment*, Advisor: Dr. Paul Barber
-
-
-
+<br>
+<br>
+<br>
 <h1>Publications</h1>
 
 *First author or co-first author:*\
@@ -57,9 +55,9 @@ Nichols PK, Sherwood AR, Fraiola KMS, **Ely TD**, … & Marko PB (2025). Detecti
 Fumo JT, Nichols PK, **Ely T**, Marko PB, … & Sherwood AR. (2025). A predictive framework for identifying source populations of non-native marine macroalgae: *Chondria tumulosa* in the Pacific Ocean. *PeerJ*, 13: p.e19610. [Link](https://peerj.com/articles/19610/)
 
 Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larval development of the Antarctic cephalaspidean snail *Waegelea antarctica* (Cephalaspidea: Antarctophilinidae), with notes on egg masses of the related *Antarctophiline alata*. *Journal of Molluscan Studies*. 87(3). [Link](https://academic-oup-com.eres.library.manoa.hawaii.edu/mollus/article/87/3/eyab027/6369773)
-
-
-
+<br>
+<br>
+<br>
 <h1>Grants</h1>
 
 2024 to current - **Jessie D. Kay Memorial Award in Zoology** ($10,000)\ 
@@ -73,9 +71,9 @@ Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larva
 
 2019 to 2024 - **NSF Graduate Research Fellowship Program** ($118,500 over 3 years)\
 *Using eDNA to examine the impact of warming oceans on marine fish communities*
-
-
-
+<br>
+<br>
+<br>
 <h1>Honor & Awards</h1>
 
 2025:      UHM Zoology Graduate Program Achievement Scholarship ($1000)\
@@ -89,9 +87,9 @@ Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larva
 2017:      Whitcome Research Undergraduate Summer Fellowship at UCLA ($3000)\
 2016:      UCLA Promise Award Scholarship ($2000)\
 2014:      California State PTA Scholarship ($500)
-
-
-
+<br>
+<br>
+<br>
 <h1>Presentations</h1>
 
 Ely T, Marko PB. (2025) “Population Genetics of Marine Species in Hawai‘i using eDNA”. Albert L. Tester Memorial Symposium. Honolulu, HI.  *won honorable mention for graduate student talks*
@@ -103,43 +101,43 @@ Ely T (2024) “eDNA: a promising tool for population genetics” Albert L. Test
 Ely T (2022) “Testing eDNA as a fine-scale population genetics tool in marine ecosystems” Albert L. Tester Memorial Symposium. Honolulu, HI.  
 
 Ely T, Blanchette A, Zeko A (2017). “Territorial damselfish enhance nutrient supplies to algal turf in shallow coral reefs”. Marine Biology Quarter Symposium. Los Angeles, CA. 
-
-
+<br>
+<br>
 <h1>Posters</h1>
 
 Ely T  (2018). “Monitoring Sea Star Wasting in Oregon’s Marine Reserves”. Oregon Sea Grant Final Symposium. Newport, OR.
 
 Ely T, Gold Z, Barber PH. (2018). “Investigating Temporal Variation of eDNA in a Marine Environment”. UCLA’s Annual Biology Research Symposium. Los Angeles, CA.
-
-
-
+<br>
+<br>
+<br>
 <h1>Experience</h1>
 
 **Graduate Research Assistant**\
 August 2019  to current at University of Hawaiʻi at Mānoa\
 GRFP & NSF grant # 2049672\
 Dr. Peter Marko’s Lab\
-Investigating marine biogeography and population connectivity in North Central Pacific\
-  - Collected and processed ~2,000 eDNA samples for biogeography and population genetics analyses; analyzed in R with custom-made population genetics pipeline\
+Investigating marine biogeography and population connectivity in North Central Pacific
+  - Collected and processed ~2,000 eDNA samples for biogeography and population genetics analyses; analyzed in R with custom-made population genetics pipeline
   - Simulated larval dispersal into the Hawaiian Archipelago using python and OceanParcels
 	
 **Lab Technician**\
 February to June 2019 at Bowdoin College, Brunswick, Maine\
-Dr. David Carlon’s Lab\
-  - Processing parrotfish gut samples for MiSeq and qPCR\
-  - Created a protocol for laboratory and bioinformatics analysis designed for undergraduate students\
+Dr. David Carlon’s Lab
+  - Processing parrotfish gut samples for MiSeq and qPCR
+  - Created a protocol for laboratory and bioinformatics analysis designed for undergraduate students
   - Managed lab upkeep including ordering supplies 
 
 **Oregon Sea Grant Summer Scholar**\
 June to August 2018 at the Department of Fish and Wildlife (ODFW)\ 
-Marine Resources Program, Newport, OR\
-  - Monitored sea star wasting syndrome (SSWS) and analyzed data from SSWS and biodiversity surveys in Oregon’s marine reserves with both univariate and multivariate statistics\
-  - Expanded the monitoring program through successful collaborations\
+Marine Resources Program, Newport, OR
+  - Monitored sea star wasting syndrome (SSWS) and analyzed data from SSWS and biodiversity surveys in Oregon’s marine reserves with both univariate and multivariate statistics
+  - Expanded the monitoring program through successful collaborations
   - Led a team of 3-7 staff and volunteers during intertidal field sampling 
 
 **Undergraduate Research Assistant**\
 October 2015 to June 2018 at University of California, Los Angeles\
-Undergraduate in Dr. Paul Barber’s Lab\                                                 
+Undergraduate in Dr. Paul Barber’s Lab\
 Senior Honors Thesis: Investigating Temporal Variation in a Marine Environment
 
 **Invertebrate Zoology Intern**\
@@ -148,13 +146,13 @@ Dr. Chris Meyer’s Lab\
 Extracted tissue samples from ARMS across Indonesia and prepped samples for Sanger sequencing 
 
 **Public Programs Intern**
-May 2015 to May 2016 at Santa Monica Pier Aquarium, Santa Monica, CA\
-  - Organized scientific talks including a talk with NASA JPL\
-  - Created advertisements, social media posts, and displays using Canva\
+May 2015 to May 2016 at Santa Monica Pier Aquarium, Santa Monica, CA
+  - Organized scientific talks including a talk with NASA JPL
+  - Created advertisements, social media posts, and displays using Canva
   - Helped found the seabirds program
-
-
-
+<br>
+<br>
+<br>
 <h1>Teaching</h1>
 
 Undergraduate Mentoring\
@@ -169,22 +167,22 @@ Trained and supervised a team of undergraduates and post-baccs to process enviro
 Teaching Assistant at University of Hawai'i at Mānoa\
 August 2019 to May 2020\
 Classes: Ecology and Evolutionary Biology Lab, Invertebrate Biology		
-
-
-
+<br>
+<br>
+<br>
 <h1>Selected Graduate Courses Taken</h1>
 
 An Introduction to place-based methodologies in Hawaiʻi; People and the Sea; Population Genetics; Systematics and Phylogenetics; Biological and Physical Oceanography; Advanced Statistics in R 
-
-
-
+<br>
+<br>
+<br>
 <h1>Certifications</h1>
 
-- Scientific Diving certified since 2016: 112 scientific dives\
+- Scientific Diving certified since 2016: 112 scientific dives
 - CPR, AED, and First Aid certified 
-
-
-
+<br>
+<br>
+<br>
 <h1>Professional Service</h1>
 
 Student Social Chair\
@@ -194,9 +192,9 @@ Co-lead of weekly Pau Hana event for graduate students and faculty
 Navigating the Publishing Landscape Workshop\
 October 2024 at University of Hawai'i at Mānoa\
 Discussion panelist for graduate student perspective
-
-
-
+<br>
+<br>
+<br>
 <h1>Community Service</h1>
 
 Various workdays on Oʻahu\
@@ -218,15 +216,15 @@ Volunteer judge for environmental science and biological sciences categories
 Environmental Message of the Month\
 September 2013 to June 2014 at Palos Verdes Intermediate School\
 Founded and ran this program to educate students and parents [Link](http://monthlyenvironmentalmessage.weebly.com/)              
-
-
-
+<br>
+<br>
+<br>
 <h1>News & Media</h1>
 
 UH News Article from September 2024 [Link](https://www.hawaii.edu/news/2024/09/08/research-voyage-marine-links-north-pacific/)
-
-
-
+<br>
+<br>
+<br>
 <h1>Reviewer for Journals</h1>
 
 Aquatic Conservation: Marine and Freshwater Ecosystems\
