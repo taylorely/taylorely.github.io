@@ -6,7 +6,7 @@ header:
 intro:
   - excerpt: 'Hi! I am a PhD candidate at the University of Hawaii at Mānoa in the zoology program. I am interested in connectivity of marine species across the Central North Pacific Ocean. I use both environmental DNA (eDNA) methods and simulation of larval dispersal to investigate these patterns of connectivity and isolation.'
 feature_row:
-  - image_path: assets/images/P7070479.JPG
+  - image_path: /assets/images/P7271572.JPG
     title: ""
     url: "/research/"
     btn_label: "Research"
