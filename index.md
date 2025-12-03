@@ -1,11 +1,12 @@
 ---
 layout: splash
+permalink: /home/
 header:
  image: /assets/images/Goatfish3.jpg
-intro: 
-  - excerpt: 'Hi! I am a PhD candidate at the University of Hawaii at Manoa in the zoology program. I use environmental DNA (eDNA) methods for large-scale community genetic studies.'
+intro:
+  - excerpt: 'Hi! I am a PhD candidate at the University of Hawaii at Mānoa in the zoology program. I am interested in connectivity of marine species across the Central North Pacific Ocean. I use both environmental DNA (eDNA) methods and simulation of larval dispersal to investigate these patterns of connectivity and isolation.'
 feature_row:
-  - image_path: assets/images/P7070479.JPG
+  - image_path: /assets/images/P7271572.JPG
     title: ""
     url: "/research/"
     btn_label: "Research"
@@ -15,11 +16,12 @@ feature_row:
     url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Fig3.jpg
-    title: "Publications"
+  - image_path: /assets/images/scholar.jpg
+    title: ""
     url: "https://scholar.google.com/citations?user=a0KyAdMAAAAJ&hl=en&oi=ao"
-    btn_label: "Google Scholar"
+    btn_label: "Publications"
     btn_class: "btn--primary"
+    
 ---
 
 {% include feature_row id="intro" type="center" %}
