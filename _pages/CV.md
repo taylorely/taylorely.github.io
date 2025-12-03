@@ -23,7 +23,7 @@ click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/asse
 
 <h1>Education</h1>
 
-University of Hawai'i at Mānoa\
+University of Hawai&#x02BB;i at Mānoa\
 PhD Candidate in Zoology\
 Started August 2019, current GPA: 4.0\
 Advisor: Dr. Peter Marko
