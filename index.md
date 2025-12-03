@@ -1,6 +1,5 @@
 ---
 layout: splash
-permalink: /home/
 header:
  image: /assets/images/Goatfish3.jpg
 intro:
@@ -26,3 +25,4 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
+
