@@ -3,7 +3,7 @@ title: "About Me"
 permalink: /about/
 layout: splash
 header:
-  overlay_image: /assets/images/Anemone3.JPG
+  overlay_image: /assets/images/P6230256.JPG
 feature_row:
    - image_path: /assets/images/headshot.jpg
      excerpt: 'My research focuses on using eDNA methods for large-scale community genetic studies.
