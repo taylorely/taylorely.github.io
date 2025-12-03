@@ -145,7 +145,7 @@ June to August 2017 at Smithsonian Institute, National Museum of Natural History
 Dr. Chris Meyer’s Lab\
 Extracted tissue samples from ARMS across Indonesia and prepped samples for Sanger sequencing 
 
-**Public Programs Intern**
+**Public Programs Intern**\
 May 2015 to May 2016 at Santa Monica Pier Aquarium, Santa Monica, CA
   - Organized scientific talks including a talk with NASA JPL
   - Created advertisements, social media posts, and displays using Canva
