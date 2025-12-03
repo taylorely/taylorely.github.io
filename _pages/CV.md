@@ -13,7 +13,7 @@ click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/asse
 
 
 <p align="center">
-	<h1>Taylor Ely</h1>
+	<b>Taylor Ely</b>
 	<br>
 	3598 Alani Drive, Honolulu, HI 96822
 	<br>
@@ -38,7 +38,7 @@ Senior Honors Thesis: *Investigating Temporal Variation in a Marine Environment*
 
 
 
-**Publications**
+<h3>Publications</h3>
 
 *First author or co-first author:*\
 **Ely TD<sup>1</sup>**, Mukai GNM<sup>1</sup>, Kobayashi DR, Marko PB, Moran AL, Wren JLK. (2024). Characterizing key sensitivities for modeling long-distance dispersal in the North Central Pacific Ocean. NOAA tech report.[Link](https://repository.library.noaa.gov/view/noaa/66043)\
@@ -60,7 +60,7 @@ Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larva
 
 
 
-# Grants
+<h4>Grants</h4>
 
 2024 to current - **Jessie D. Kay Memorial Award in Zoology** ($10,000)\ 
 *What are the dispersal pathways for marine species to the Hawaiian Archipelago?*
@@ -76,7 +76,8 @@ Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larva
 
 
 
-# Honor & Awards
+<h5>Honor & Awards</h5>
+
 2025:      UHM Zoology Graduate Program Achievement Scholarship ($1000)\
 2025:      Honolulu ARCS Scholar ($6,000)\
 2025:      Honorable mention for graduate student talk at Tester Symposium at UHM\
@@ -91,7 +92,7 @@ Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larva
 
 
 
-# Presentations
+<h6>Presentations</h6>
 
 Ely T, Marko PB. (2025) “Population Genetics of Marine Species in Hawai‘i using eDNA”. Albert L. Tester Memorial Symposium. Honolulu, HI.  *won honorable mention for graduate student talks*
 
@@ -104,7 +105,7 @@ Ely T (2022) “Testing eDNA as a fine-scale population genetics tool in marine 
 Ely T, Blanchette A, Zeko A (2017). “Territorial damselfish enhance nutrient supplies to algal turf in shallow coral reefs”. Marine Biology Quarter Symposium. Los Angeles, CA. 
 
 
-# Posters
+<h7>Posters</h7>
 
 Ely T  (2018). “Monitoring Sea Star Wasting in Oregon’s Marine Reserves”. Oregon Sea Grant Final Symposium. Newport, OR.
 
@@ -112,7 +113,7 @@ Ely T, Gold Z, Barber PH. (2018). “Investigating Temporal Variation of eDNA in
 
 
 
-# Experience
+<h8>Experience</h8>
 
 **Graduate Research Assistant**\
 August 2019  to current at University of Hawaiʻi at Mānoa\
