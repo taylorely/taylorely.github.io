@@ -77,15 +77,15 @@ Blanchette A<sup>1</sup>, **Ely T<sup>1</sup>**, Zeko A<sup>1</sup>, Sura S, Tur
 <br>
 <h1>Honor & Awards</h1>
 
-2025 to 2026:      UHM Zoology Graduate Program Achievement Scholarship ($1000)\
-2024 to 2025:      Honolulu ARCS Scholar ($6,000)\
-2024 to 2025:      Environmental DNA (eDNA) Conference Bursary ($1500)\
-2017 to 2018:      Graduated Summa Cum Laude and Departmental Highest Honors from UCLA\
-2014 to 2018:      Dean’s Honors List at UCLA\
-2017 to 2018:      UCLA Undergraduate Research Scholarship Program award ($5000)\
-2017 to 2018:      Whitcome Research Undergraduate Summer Fellowship at UCLA ($3000)\
-2015 to 2016:      UCLA Promise Award Scholarship ($2000)\
-2013 to 2014:      California State PTA Scholarship ($500)
+2025 to 2026:&emsp;UHM Zoology Graduate Program Achievement Scholarship ($1000)\
+2024 to 2025:&emsp;Honolulu ARCS Scholar ($6,000)\
+2024 to 2025:&emsp;Environmental DNA (eDNA) Conference Bursary ($1500)\
+2017 to 2018:&emsp;Graduated Summa Cum Laude and Departmental Highest Honors from UCLA\
+2014 to 2018:&emsp;Dean’s Honors List at UCLA\
+2017 to 2018:&emsp;UCLA Undergraduate Research Scholarship Program award ($5000)\
+2017 to 2018:&emsp;Whitcome Research Undergraduate Summer Fellowship at UCLA ($3000)\
+2015 to 2016:&emsp;UCLA Promise Award Scholarship ($2000)\
+2013 to 2014:&emsp;California State PTA Scholarship ($500)
 <br>
 <br>
 <br>
@@ -116,7 +116,7 @@ May 2018:		“Investigating Temporal Variation of eDNA in a Marine Environment�
 
 **Graduate Research Assistant**\
 August 2019  to current\
-Marko Lab, University of Hawaiʻi at Mānoa, Honolulu, Hawaiʻi\
+Marko Lab, University of Hawaiʻi at Mānoa, Honolulu, Hawaiʻi
   - Collected and processed ~2,000 eDNA samples for biogeography and population genetics analyses  
   - Wrote a population genetics pipeline in R for eDNA samples  
   - Simulated larval dispersal into the Hawaiian Archipelago using python and OceanParcels   
@@ -125,34 +125,34 @@ Marko Lab, University of Hawaiʻi at Mānoa, Honolulu, Hawaiʻi\
 	
 **Research Technician**\
 February to June 2019\
-Carlon Lab, Bowdoin College, Brunswick, Maine\
+Carlon Lab, Bowdoin College, Brunswick, Maine
   - Processed parrotfish gut samples for MiSeq and qPCR   
   - Created a protocol for laboratory and bioinformatics analysis designed for undergraduate students  
   - Managed lab upkeep including ordering supplies   
 
 **Oregon Sea Grant Summer Scholar**\
 June to August 2018\
-Department of Fish and Wildlife (ODFW), Marine Resources Program, Newport, OR\
+Department of Fish and Wildlife (ODFW), Marine Resources Program, Newport, OR
   - Monitored sea star wasting syndrome (SSWS), analyzed data, and wrote a report about temporal changes in SSWS and biodiversity patterns   
   - Expanded the monitoring program through successful collaborations  
   - Led a team of 3-7 staff and volunteers during intertidal field sampling  
 
 **Undergraduate Research Assistant**\
 October 2015 to June 2018\
-Barber Lab, University of California Los Angeles, Los Angeles, California\
+Barber Lab, University of California Los Angeles, Los Angeles, California
   - Collected, processed, and analyzed eDNA samples  
   - Extracted seagrass DNA for genomic analyzes   
 
 **Invertebrate Zoology Intern**\
 June to August 2017\
-Meyer Lab, Smithsonian National Museum of Natural History, Washington D.C\
+Meyer Lab, Smithsonian National Museum of Natural History, Washington D.C
   - Extracted tissue samples from ARMS across Indonesia  
   - Prepped samples for Sanger sequencing  
   - Assembled and analyzed sequence chromatograms using Geneious  
 
 **Public Programs Intern**\
 May 2015 to May 2016\
-Santa Monica Pier Aquarium, Santa Monica, CA\
+Santa Monica Pier Aquarium, Santa Monica, CA
   - Organized monthly scientific talks  
   - Created advertisements, social media posts, and displays using Canva  
   - Helped found the seabirds program  
