@@ -80,12 +80,12 @@ Blanchette A<sup>1</sup>, **Ely T<sup>1</sup>**, Zeko A<sup>1</sup>, Sura S, Tur
 2025 to 2026:&emsp;UHM Zoology Graduate Program Achievement Scholarship ($1000)\
 2024 to 2025:&emsp;Honolulu ARCS Scholar ($6,000)\
 2024 to 2025:&emsp;Environmental DNA (eDNA) Conference Bursary ($1500)\
-2017 to 2018:&emsp;Graduated Summa Cum Laude and Departmental Highest Honors from UCLA\
-2014 to 2018:&emsp;Dean’s Honors List at UCLA\
-2017 to 2018:&emsp;UCLA Undergraduate Research Scholarship Program award ($5000)\
-2017 to 2018:&emsp;Whitcome Research Undergraduate Summer Fellowship at UCLA ($3000)\
-2015 to 2016:&emsp;UCLA Promise Award Scholarship ($2000)\
-2013 to 2014:&emsp;California State PTA Scholarship ($500)
+2017 to 2018:&emsp;&nbsp;Graduated Summa Cum Laude and Departmental Highest Honors from UCLA\
+2014 to 2018:&emsp;&nbsp;Dean’s Honors List at UCLA\
+2017 to 2018:&emsp;&nbsp;UCLA Undergraduate Research Scholarship Program award ($5000)\
+2017 to 2018:&emsp;&nbsp;Whitcome Research Undergraduate Summer Fellowship at UCLA ($3000)\
+2015 to 2016:&emsp;&nbsp;UCLA Promise Award Scholarship ($2000)\
+2013 to 2014:&emsp;&nbsp;California State PTA Scholarship ($500)
 <br>
 <br>
 <br>
