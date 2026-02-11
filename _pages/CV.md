@@ -7,7 +7,7 @@ header:
 
 ---
 
-click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/CV_TDEly_2025.pdf) for a pdf version of my CV
+click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/CV_ElyTD_2026.pdf) for a pdf version of my CV
 <br>
 <br>
 <br>
@@ -25,8 +25,8 @@ click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/asse
 
 University of Hawaiʻi at Mānoa\
 PhD Candidate in Zoology\
-Started August 2019, current GPA: 4.0\
-Advisor: Dr. Peter Marko
+Expected January 2027, current GPA: 4.0\
+Thesis: *Connectivity of Marine Communities in the North Central Pacific*, Advisor: Dr. Peter Marko
 
 University of California, Los Angeles\
 Bachelors of Science in Marine Biology\
@@ -38,135 +38,175 @@ Senior Honors Thesis: *Investigating Temporal Variation in a Marine Environment*
 <br>
 <h1>Publications</h1>
 
-*First author or co-first author:*\
+**Ely TD**, Marko PB. In Review. Resolving emergent patterns in community genetics with environmental
+DNA.  
+
+Nichols PK, Sherwood AR, Fraiola KM, **Ely TD**, Hauk BB, Counsell CW, Porter ML, Marko PB. (2025). Detection of a Non-Indigenous Marine Macroalga (*Acanthophora spicifera*) With Environmental DNA From Surface Seawater. *Aquaculture, Fish and Fisheries* 5, no. 6: e70135. [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aff2.70135)  
+
+Fumo JT, Nichols PK, **Ely T**, Marko PB, Moran AL, Powell BS, Williams TM, Kosaki RK, Smith CM, Lopes Jr KH, Smith JE. (2025). A predictive framework for identifying source populations of non-native marine macroalgae: *Chondria tumulosa* in the Pacific Ocean. *PeerJ*, 13: p.e19610. [Link](https://peerj.com/articles/19610/)  
+
 **Ely TD<sup>1</sup>**, Mukai GNM<sup>1</sup>, Kobayashi DR, Marko PB, Moran AL, Wren JLK. (2024). Characterizing key sensitivities for modeling long-distance dispersal in the North Central Pacific Ocean. NOAA tech report. [Link](https://repository.library.noaa.gov/view/noaa/66043)\
 <sup>1</sup> = co-first authors
 
 **Ely T**, Patten N, Naisbett-Jones LC, Spencer ET, Willette DA, Marko PB. (2023). Molecular identification of critically endangered European eels (*Anguilla anguilla*) in U.S. retail outlets. *PEERJ*. 11: e14531 [Link](https://peerj.com/articles/14531/)
 
+Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larval development of the Antarctic cephalaspidean snail *Waegelea antarctica* (Cephalaspidea: Antarctophilinidae), with notes on egg masses of the related *Antarctophiline alata*. *Journal of Molluscan Studies*. 87(3). [Link](https://academic-oup-com.eres.library.manoa.hawaii.edu/mollus/article/87/3/eyab027/6369773)
+
 **Ely T**, Barber PH, Man L, Gold Z. (2021). Short-lived detection of an introduced vertebrate eDNA signal in a nearshore rocky reef environment. *PLOS ONE* 16(6): e0245314. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245314)
 
 Blanchette A<sup>1</sup>, **Ely T<sup>1</sup>**, Zeko A<sup>1</sup>, Sura S, Turba R, Fong P. (2019). Damselfish Stegastes nigricans increase algal growth within their territories on shallow coral reefs likely via enhanced nutrient supplies. *Journal of Experimental Marine Biology and Ecology*. 513: 21-26  [Link](https://www-sciencedirect-com.eres.library.manoa.hawaii.edu/science/article/pii/S0022098118304520)\
 <sup>1</sup>  = co-first authors
-
-*Others:*
-Nichols PK, Sherwood AR, Fraiola KMS, **Ely TD**, … & Marko PB (2025). Detection of a Non-Indigenous Marine Macroalga (*Acanthophora spicifera*) With Environmental DNA From Surface Seawater.  *Aquaculture, Fish and Fisheries* 5(6): e70135. [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aff2.70135)
-
-Fumo JT, Nichols PK, **Ely T**, Marko PB, … & Sherwood AR. (2025). A predictive framework for identifying source populations of non-native marine macroalgae: *Chondria tumulosa* in the Pacific Ocean. *PeerJ*, 13: p.e19610. [Link](https://peerj.com/articles/19610/)
-
-Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larval development of the Antarctic cephalaspidean snail *Waegelea antarctica* (Cephalaspidea: Antarctophilinidae), with notes on egg masses of the related *Antarctophiline alata*. *Journal of Molluscan Studies*. 87(3). [Link](https://academic-oup-com.eres.library.manoa.hawaii.edu/mollus/article/87/3/eyab027/6369773)
 <br>
 <br>
 <br>
 <h1>Grants</h1>
 
-2024 to current - **Jessie D. Kay Memorial Award in Zoology** ($10,000)\
+2024 to 2026 - **Jessie D. Kay Memorial Award in Zoology** ($10,000)\
 *What are the dispersal pathways for marine species to the Hawaiian Archipelago?*
 
-2023 - **Elizabeth Alison Kay Endowed Awards** for students in Biology/Zoology at the University of Hawai'i at Mānoa ($2500)\
+2023 to 2024 - **Elizabeth Alison Kay Endowed Awards** for students in Biology/Zoology at the University of Hawai'i at Mānoa ($2500)\
 *Dispersal patterns of marine organisms in the Hawaiian Archipelago*
 
-2020 - **The Charles H. And Margaret B. Edmondson Research Fund** ($2000)\
+2020 to 2021 - **The Charles H. And Margaret B. Edmondson Research Fund** ($2000)\
 *Community-wide genetic patterns revealed through eDNA* 
 
-2019 to 2024 - **NSF Graduate Research Fellowship Program** ($118,500 over 3 years)\
+2019 to 2024 - **NSF Graduate Research Fellowship Program** ($118,500)\
 *Using eDNA to examine the impact of warming oceans on marine fish communities*
 <br>
 <br>
 <br>
 <h1>Honor & Awards</h1>
 
-2025:      UHM Zoology Graduate Program Achievement Scholarship ($1000)\
-2025:      Honolulu ARCS Scholar ($6,000)\
-2025:      Honorable mention for graduate student talk at Tester Symposium at UHM\
-2025:      Environmental DNA (eDNA) Conference Bursary ($1500)\
-2018:      Graduated Summa Cum Laude and Departmental Highest Honors from UCLA\
-2018:      3rd place Undergraduate Poster at UCLA’s Biology Research Symposium\
-2014-2018: Dean’s Honors List at UCLA\
-2017:      UCLA Undergraduate Research Scholarship Program award ($5000)\
-2017:      Whitcome Research Undergraduate Summer Fellowship at UCLA ($3000)\
-2016:      UCLA Promise Award Scholarship ($2000)\
-2014:      California State PTA Scholarship ($500)
+2025 to 2026:      UHM Zoology Graduate Program Achievement Scholarship ($1000)\
+2024 to 2025:      Honolulu ARCS Scholar ($6,000)\
+2024 to 2025:      Environmental DNA (eDNA) Conference Bursary ($1500)\
+2017 to 2018:      Graduated Summa Cum Laude and Departmental Highest Honors from UCLA\
+2014 to 2018:      Dean’s Honors List at UCLA\
+2017 to 2018:      UCLA Undergraduate Research Scholarship Program award ($5000)\
+2017 to 2018:      Whitcome Research Undergraduate Summer Fellowship at UCLA ($3000)\
+2015 to 2016:      UCLA Promise Award Scholarship ($2000)\
+2013 to 2014:      California State PTA Scholarship ($500)
 <br>
 <br>
 <br>
 <h1>Presentations</h1>
 
-Ely T, Marko PB. (2025) “Population Genetics of Marine Species in Hawai‘i using eDNA”. Albert L. Tester Memorial Symposium. Honolulu, HI.  *won honorable mention for graduate student talks*
+Apr 2025:		“Population Genetics of Marine Species in Hawai‘i using eDNA”. Albert L. Tester Memorial Symposium. Honolulu, HI.  *Honorable mention, Best graduate student talk*
 
-Ely T, Marko PB. (2025) “Analysis of eDNA as a community genetics tool” 2nd Australian & New Zealand Environmental DNA (eDNA) Conference. Wellington, New Zealand.
+Feb 2025:		“Analysis of eDNA as a community genetics tool” 2nd Australian & New Zealand Environmental DNA (eDNA) Conference. Wellington, New Zealand.
 
-Ely T (2024) “eDNA: a promising tool for population genetics” Albert L. Tester Memorial Symposium. Honolulu, HI.  
+Apr 2024:		“eDNA: a promising tool for population genetics” Albert L. Tester Memorial Symposium. Honolulu, HI.  
 
-Ely T (2022) “Testing eDNA as a fine-scale population genetics tool in marine ecosystems” Albert L. Tester Memorial Symposium. Honolulu, HI.  
+Apr 2022:		“Testing eDNA as a fine-scale population genetics tool in marine ecosystems” Albert L. Tester Memorial Symposium. Honolulu, HI.  
 
-Ely T, Blanchette A, Zeko A (2017). “Territorial damselfish enhance nutrient supplies to algal turf in shallow coral reefs”. Marine Biology Quarter Symposium. Los Angeles, CA. 
+May 2017:		“Territorial damselfish enhance nutrient supplies to algal turf in shallow coral reefs”. Marine Biology Quarter Symposium. Los Angeles, CA. 
 <br>
 <br>
 <h1>Posters</h1>
 
-Ely T  (2018). “Monitoring Sea Star Wasting in Oregon’s Marine Reserves”. Oregon Sea Grant Final Symposium. Newport, OR.
+Dec 2025:		“Marine Community Genetics: A Test in the Hawaiian Islands”. 8th Annual Meeting of the eDNA Society. Yamaguchi, Japan.  
 
-Ely T, Gold Z, Barber PH. (2018). “Investigating Temporal Variation of eDNA in a Marine Environment”. UCLA’s Annual Biology Research Symposium. Los Angeles, CA.
+Aug 2018:		“Monitoring Sea Star Wasting in Oregon’s Marine Reserves”. Oregon Sea Grant Final Symposium. Newport, OR.
+
+May 2018:		“Investigating Temporal Variation of eDNA in a Marine Environment”. UCLA’s Annual Biology Research Symposium. Los Angeles, CA. *3rd place Undergraduate Poster*
 <br>
 <br>
 <br>
 <h1>Experience</h1>
 
 **Graduate Research Assistant**\
-August 2019  to current at University of Hawaiʻi at Mānoa\
-GRFP & NSF grant # 2049672\
-Dr. Peter Marko’s Lab\
-Investigating marine biogeography and population connectivity in North Central Pacific
-  - Collected and processed ~2,000 eDNA samples for biogeography and population genetics analyses; analyzed in R with custom-made population genetics pipeline
-  - Simulated larval dispersal into the Hawaiian Archipelago using python and OceanParcels
+August 2019  to current\
+Marko Lab, University of Hawaiʻi at Mānoa, Honolulu, Hawaiʻi\
+  - Collected and processed ~2,000 eDNA samples for biogeography and population genetics analyses  
+  - Wrote a population genetics pipeline in R for eDNA samples  
+  - Simulated larval dispersal into the Hawaiian Archipelago using python and OceanParcels   
+  - Ran population genomic analyses on urchin tissue samples  
+  - Used restriction enzymes to identify illegal eel species in markets  
 	
-**Lab Technician**\
-February to June 2019 at Bowdoin College, Brunswick, Maine\
-Dr. David Carlon’s Lab
-  - Processing parrotfish gut samples for MiSeq and qPCR
-  - Created a protocol for laboratory and bioinformatics analysis designed for undergraduate students
-  - Managed lab upkeep including ordering supplies 
+**Research Technician**\
+February to June 2019\
+Carlon Lab, Bowdoin College, Brunswick, Maine\
+  - Processed parrotfish gut samples for MiSeq and qPCR   
+  - Created a protocol for laboratory and bioinformatics analysis designed for undergraduate students  
+  - Managed lab upkeep including ordering supplies   
 
 **Oregon Sea Grant Summer Scholar**\
-June to August 2018 at the Department of Fish and Wildlife (ODFW)\
-Marine Resources Program, Newport, OR
-  - Monitored sea star wasting syndrome (SSWS) and analyzed data from SSWS and biodiversity surveys in Oregon’s marine reserves with both univariate and multivariate statistics
-  - Expanded the monitoring program through successful collaborations
-  - Led a team of 3-7 staff and volunteers during intertidal field sampling 
+June to August 2018\
+Department of Fish and Wildlife (ODFW), Marine Resources Program, Newport, OR\
+  - Monitored sea star wasting syndrome (SSWS), analyzed data, and wrote a report about temporal changes in SSWS and biodiversity patterns   
+  - Expanded the monitoring program through successful collaborations  
+  - Led a team of 3-7 staff and volunteers during intertidal field sampling  
 
 **Undergraduate Research Assistant**\
-October 2015 to June 2018 at University of California, Los Angeles\
-Undergraduate in Dr. Paul Barber’s Lab\
-Senior Honors Thesis: Investigating Temporal Variation in a Marine Environment
+October 2015 to June 2018\
+Barber Lab, University of California Los Angeles, Los Angeles, California\
+  - Collected, processed, and analyzed eDNA samples  
+  - Extracted seagrass DNA for genomic analyzes   
 
 **Invertebrate Zoology Intern**\
-June to August 2017 at Smithsonian Institute, National Museum of Natural History\
-Dr. Chris Meyer’s Lab\
-Extracted tissue samples from ARMS across Indonesia and prepped samples for Sanger sequencing 
+June to August 2017\
+Meyer Lab, Smithsonian National Museum of Natural History, Washington D.C\
+  - Extracted tissue samples from ARMS across Indonesia  
+  - Prepped samples for Sanger sequencing  
+  - Assembled and analyzed sequence chromatograms using Geneious  
 
 **Public Programs Intern**\
-May 2015 to May 2016 at Santa Monica Pier Aquarium, Santa Monica, CA
-  - Organized scientific talks including a talk with NASA JPL
-  - Created advertisements, social media posts, and displays using Canva
-  - Helped found the seabirds program
+May 2015 to May 2016\
+Santa Monica Pier Aquarium, Santa Monica, CA\
+  - Organized monthly scientific talks  
+  - Created advertisements, social media posts, and displays using Canva  
+  - Helped found the seabirds program  
 <br>
 <br>
 <br>
 <h1>Teaching</h1>
 
-Undergraduate Mentoring\
-April 2025 to current\
-Advise a student working with eDNA data in R to investigate life history’s influence on detections
+April 2025 to current: **Undergraduate Mentoring** ,University of Hawaiʻi at Mānoa\
+Advising a student working with eDNA data in R to investigate life history’s influence on detections  
 
-Environmental DNA team leader\
-July 2024\
-Larvae Across the Pacific Research Cruise on R/V Thompson\
-Trained and supervised a team of undergraduates and post-baccs to process environmental DNA samples
+July 2024: **Environmental DNA team leader**, *R/V Thompson*\
+Larvae Across the Pacific Research Cruise\
+Trained and supervised a team of undergraduates and post-baccs to process environmental DNA samples  
 
-Teaching Assistant at University of Hawaiʻi at Mānoa\
-August 2019 to May 2020\
+August 2019 to May 2020: **Teaching Assistant**, University of Hawaiʻi at Mānoa\
 Classes: Ecology and Evolutionary Biology Lab, Invertebrate Biology		
+<br>
+<br>
+<br>
+<h1>Service</h1>  
+
+**Professional**  
+
+2023 to 2026: **Reviewer** for manuscripts submitted to *Marine Ecology Progress Series*, *Molecular Ecology Resources*, *Proceedings of the Royal Society B: Biological Sciences*, *Aquatic Conservation: Marine and Freshwater Ecosystems*\
+
+2025 to 2026: **Student Social Chair**, School of Life Sciences, University of Hawaiʻi at Mānoa\
+Co-led weekly pau hana events to foster community and informal engagement among graduate students and faculty  
+
+October 2024:  **Navigating the Publishing Landscape Workshop**, University of Hawaiʻi at Mānoa\
+Provided a graduate student perspective on academic publishing  
+<br>
+**Community Service**  
+
+2024 to 2026: Various workdays on Oʻahu\
+Paepae o Heʻeia	; Ka Popo Loʻi o Kānewai; Waialeʻe Lake Pono; 808 cleanups; Kaiāulu ʻO Kahaluʻu,…  
+
+September 2024 and November 2025: International Save the Vaquita Day, Waikīkī Aquarium\
+Lead volunteer, ran an educational booth		        
+	    	    	
+2020 to 2023: Various STEM outreach for kids\
+Kupu Hawaiʻi STEM outreach; Career Day at Dreamhouse HS; The Science of the Seuss Library Event	 
+
+2020 to 2021: Leeward Science and Engineering Fair\
+Volunteer judge for environmental science and biological sciences categories  
+
+2013 to 2014: Environmental Message of the Month, Palos Verdes Intermediate School\
+Founded and ran this program to educate students and parents [Link](http://monthlyenvironmentalmessage.weebly.com/)              
+<br>
+<br>
+<br>
+<h1>News & Media</h1>
+
+UH News Article from September 2024 [Link](https://www.hawaii.edu/news/2024/09/08/research-voyage-marine-links-north-pacific/)
 <br>
 <br>
 <br>
@@ -183,50 +223,3 @@ An Introduction to place-based methodologies in Hawaiʻi; People and the Sea; Po
 <br>
 <br>
 <br>
-<h1>Professional Service</h1>
-
-Student Social Chair\
-January 2025 to current at University of Hawaiʻi at Mānoa\
-Co-lead of weekly Pau Hana event for graduate students and faculty        
-
-Navigating the Publishing Landscape Workshop\
-October 2024 at University of Hawaiʻi at Mānoa\
-Discussion panelist for graduate student perspective
-<br>
-<br>
-<br>
-<h1>Community Service</h1>
-
-Various workdays on Oʻahu\
-2024 to current\
-Paepae o Heʻeia	; Ka Popo Loʻi o Kānewai; Waialeʻe Lake Pono; 808 cleanups; Kaiāulu ʻO Kahaluʻu,…
-
-International Save the Vaquita Day\
-September 2024 and November 2025 at Waikīkī Aquarium\
-Lead volunteer, ran an educational booth		        
-	    	    	
-Various STEM outreach for kids\
-March 2020, October 2022, and February 2023\
-Kupu Hawaiʻi STEM outreach; Career Day at Dreamhouse HS; The Science of the Seuss Library Event	
-
-Leeward Science and Engineering Fair\
-February 2020 and 2021\
-Volunteer judge for environmental science and biological sciences categories
-
-Environmental Message of the Month\
-September 2013 to June 2014 at Palos Verdes Intermediate School\
-Founded and ran this program to educate students and parents [Link](http://monthlyenvironmentalmessage.weebly.com/)              
-<br>
-<br>
-<br>
-<h1>News & Media</h1>
-
-UH News Article from September 2024 [Link](https://www.hawaii.edu/news/2024/09/08/research-voyage-marine-links-north-pacific/)
-<br>
-<br>
-<br>
-<h1>Reviewer for Journals</h1>
-
-Aquatic Conservation: Marine and Freshwater Ecosystems\
-Proceedings of the Royal Society B: Biological Sciences\
-Molecular Ecology Resources
