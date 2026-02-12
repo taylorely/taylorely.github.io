@@ -25,13 +25,15 @@ click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/asse
 
 University of Hawaiʻi at Mānoa\
 PhD Candidate in Zoology\
-Expected January 2027, current GPA: 4.0\
+Expected January 2027\
+current GPA: 4.0\
 Thesis: *Connectivity of Marine Communities in the North Central Pacific*, Advisor: Dr. Peter Marko
 
 University of California, Los Angeles\
 Bachelors of Science in Marine Biology\
 Minor in Environmental Systems and Society\
-Graduated June 2018, GPA: 3.957\
+Graduated June 2018\
+GPA: 3.957\
 Senior Honors Thesis: *Investigating Temporal Variation in a Marine Environment*, Advisor: Dr. Paul Barber
 <br>
 <br>
@@ -91,9 +93,9 @@ Blanchette A<sup>1</sup>, **Ely T<sup>1</sup>**, Zeko A<sup>1</sup>, Sura S, Tur
 <br>
 <h1>Presentations</h1>
 
-Apr 2025:		“Population Genetics of Marine Species in Hawai‘i using eDNA”. Albert L. Tester Memorial Symposium. Honolulu, HI.  *Honorable mention, Best graduate student talk*
+Apr 2025:		[“Population Genetics of Marine Species in Hawai‘i using eDNA”](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/Testers_2025.pdf). Albert L. Tester Memorial Symposium. Honolulu, HI.  *Honorable mention, Best graduate student talk*
 
-Feb 2025:		“Analysis of eDNA as a community genetics tool” 2nd Australian & New Zealand Environmental DNA (eDNA) Conference. Wellington, New Zealand.
+Feb 2025:		[“Analysis of eDNA as a community genetics tool”](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/NewZealandeDNAPresentation25.pdf) 2nd Australian & New Zealand Environmental DNA (eDNA) Conference. Wellington, New Zealand.
 
 Apr 2024:		“eDNA: a promising tool for population genetics” Albert L. Tester Memorial Symposium. Honolulu, HI.  
 
@@ -104,11 +106,11 @@ May 2017:		“Territorial damselfish enhance nutrient supplies to algal turf in 
 <br>
 <h1>Posters</h1>
 
-Dec 2025:		“Marine Community Genetics: A Test in the Hawaiian Islands”. 8th Annual Meeting of the eDNA Society. Yamaguchi, Japan.  
+Dec 2025:		[“Marine Community Genetics: A Test in the Hawaiian Islands”](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/eDNASocietyPoster.pdf). 8th Annual Meeting of the eDNA Society. Yamaguchi, Japan.  
 
-Aug 2018:		“Monitoring Sea Star Wasting in Oregon’s Marine Reserves”. Oregon Sea Grant Final Symposium. Newport, OR.
+Aug 2018:		[“Monitoring Sea Star Wasting in Oregon’s Marine Reserves”](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/Poster_SeaGrant.pdf). Oregon Sea Grant Final Symposium. Newport, OR.
 
-May 2018:		“Investigating Temporal Variation of eDNA in a Marine Environment”. UCLA’s Annual Biology Research Symposium. Los Angeles, CA. *3rd place Undergraduate Poster*
+May 2018:		[“Investigating Temporal Variation of eDNA in a Marine Environment”](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/Ely_Taylor_904409316_FINAL.pdf). UCLA’s Annual Biology Research Symposium. Los Angeles, CA. *3rd place Undergraduate Poster*
 <br>
 <br>
 <br>
@@ -117,45 +119,46 @@ May 2018:		“Investigating Temporal Variation of eDNA in a Marine Environment�
 **Graduate Research Assistant**\
 August 2019  to current\
 Marko Lab, University of Hawaiʻi at Mānoa, Honolulu, Hawaiʻi
-  - Collected and processed ~2,000 eDNA samples for biogeography and population genetics analyses  
-  - Wrote a population genetics pipeline in R for eDNA samples  
-  - Simulated larval dispersal into the Hawaiian Archipelago using python and OceanParcels   
-  - Ran population genomic analyses on urchin tissue samples  
-  - Used restriction enzymes to identify illegal eel species in markets  
+  :&emsp;- Collected and processed ~2,000 eDNA samples for biogeography and population genetics analyses  
+  :&emsp;- Wrote a population genetics pipeline in R for eDNA samples  
+  :&emsp;- Simulated larval dispersal into the Hawaiian Archipelago using python and OceanParcels   
+  :&emsp;- Ran population genomic analyses on urchin tissue samples  
+  :&emsp;- Used restriction enzymes to identify illegal eel species in markets  
 	
 **Research Technician**\
 February to June 2019\
 Carlon Lab, Bowdoin College, Brunswick, Maine
-  - Processed parrotfish gut samples for MiSeq and qPCR   
-  - Created a protocol for laboratory and bioinformatics analysis designed for undergraduate students  
-  - Managed lab upkeep including ordering supplies   
+  :&emsp;- Processed parrotfish gut samples for MiSeq and qPCR   
+  :&emsp;- Created a protocol for laboratory and bioinformatics analysis designed for undergraduate students  
+  :&emsp;- Managed lab upkeep including ordering supplies   
 
 **Oregon Sea Grant Summer Scholar**\
 June to August 2018\
 Department of Fish and Wildlife (ODFW), Marine Resources Program, Newport, OR
-  - Monitored sea star wasting syndrome (SSWS), analyzed data, and wrote a report about temporal changes in SSWS and biodiversity patterns   
-  - Expanded the monitoring program through successful collaborations  
-  - Led a team of 3-7 staff and volunteers during intertidal field sampling  
+  :&emsp;- Monitored sea star wasting syndrome (SSWS) 
+  :&emsp;- Wrote a report about temporal changes in SSWS and biodiversity patterns   
+  :&emsp;- Expanded the monitoring program through successful collaborations  
+  :&emsp;- Led a team of 3-7 staff and volunteers during intertidal field sampling  
 
 **Undergraduate Research Assistant**\
 October 2015 to June 2018\
 Barber Lab, University of California Los Angeles, Los Angeles, California
-  - Collected, processed, and analyzed eDNA samples  
-  - Extracted seagrass DNA for genomic analyzes   
+  :&emsp;- Collected, processed, and analyzed eDNA samples  
+  :&emsp;- Extracted seagrass DNA for genomic analyzes   
 
 **Invertebrate Zoology Intern**\
 June to August 2017\
 Meyer Lab, Smithsonian National Museum of Natural History, Washington D.C
-  - Extracted tissue samples from ARMS across Indonesia  
-  - Prepped samples for Sanger sequencing  
-  - Assembled and analyzed sequence chromatograms using Geneious  
+  :&emsp;- Extracted tissue samples from ARMS across Indonesia  
+  :&emsp;- Prepped samples for Sanger sequencing  
+  :&emsp;- Assembled and analyzed sequence chromatograms using Geneious  
 
 **Public Programs Intern**\
 May 2015 to May 2016\
 Santa Monica Pier Aquarium, Santa Monica, CA
-  - Organized monthly scientific talks  
-  - Created advertisements, social media posts, and displays using Canva  
-  - Helped found the seabirds program  
+  :&emsp;- Organized monthly scientific talks  
+  :&emsp;- Created advertisements, social media posts, and displays using Canva  
+  :&emsp;- Helped found the seabirds program  
 <br>
 <br>
 <br>
