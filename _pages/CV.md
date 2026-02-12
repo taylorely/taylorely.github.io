@@ -43,20 +43,20 @@ Senior Honors Thesis: *Investigating Temporal Variation in a Marine Environment*
 **Ely TD**, Marko PB. In Review. Resolving emergent patterns in community genetics with environmental
 DNA.  
 
-Nichols PK, Sherwood AR, Fraiola KM, **Ely TD**, Hauk BB, Counsell CW, Porter ML, Marko PB. (2025). Detection of a Non-Indigenous Marine Macroalga (*Acanthophora spicifera*) With Environmental DNA From Surface Seawater. *Aquaculture, Fish and Fisheries* 5, no. 6: e70135. [Link](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aff2.70135)  
+Nichols PK, Sherwood AR, Fraiola KM, **Ely TD**, Hauk BB, Counsell CW, Porter ML, Marko PB. (2025). [Detection of a Non-Indigenous Marine Macroalga (*Acanthophora spicifera*) With Environmental DNA From Surface Seawater.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aff2.70135) *Aquaculture, Fish and Fisheries* 5, no. 6: e70135. 
 
-Fumo JT, Nichols PK, **Ely T**, Marko PB, Moran AL, Powell BS, Williams TM, Kosaki RK, Smith CM, Lopes Jr KH, Smith JE. (2025). A predictive framework for identifying source populations of non-native marine macroalgae: *Chondria tumulosa* in the Pacific Ocean. *PeerJ*, 13: p.e19610. [Link](https://peerj.com/articles/19610/)  
+Fumo JT, Nichols PK, **Ely T**, Marko PB, Moran AL, Powell BS, Williams TM, Kosaki RK, Smith CM, Lopes Jr KH, Smith JE. (2025). [A predictive framework for identifying source populations of non-native marine macroalgae: *Chondria tumulosa* in the Pacific Ocean.](https://peerj.com/articles/19610/) *PeerJ*, 13: p.e19610.  
 
-**Ely TD<sup>1</sup>**, Mukai GNM<sup>1</sup>, Kobayashi DR, Marko PB, Moran AL, Wren JLK. (2024). Characterizing key sensitivities for modeling long-distance dispersal in the North Central Pacific Ocean. NOAA tech report. [Link](https://repository.library.noaa.gov/view/noaa/66043)\
+**Ely TD<sup>1</sup>**, Mukai GNM<sup>1</sup>, Kobayashi DR, Marko PB, Moran AL, Wren JLK. (2024). [Characterizing key sensitivities for modeling long-distance dispersal in the North Central Pacific Ocean.](https://repository.library.noaa.gov/view/noaa/66043) NOAA tech report.\
 <sup>1</sup> = co-first authors
 
-**Ely T**, Patten N, Naisbett-Jones LC, Spencer ET, Willette DA, Marko PB. (2023). Molecular identification of critically endangered European eels (*Anguilla anguilla*) in U.S. retail outlets. *PEERJ*. 11: e14531 [Link](https://peerj.com/articles/14531/)
+**Ely T**, Patten N, Naisbett-Jones LC, Spencer ET, Willette DA, Marko PB. (2023). [Molecular identification of critically endangered European eels (*Anguilla anguilla*) in U.S. retail outlets.](https://peerj.com/articles/14531/) *PEERJ*. 11: e14531.
 
-Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). Egg masses and larval development of the Antarctic cephalaspidean snail *Waegelea antarctica* (Cephalaspidea: Antarctophilinidae), with notes on egg masses of the related *Antarctophiline alata*. *Journal of Molluscan Studies*. 87(3). [Link](https://academic-oup-com.eres.library.manoa.hawaii.edu/mollus/article/87/3/eyab027/6369773)
+Moran AL, Toh M-WA, Lobert GT, **Ely T**, Marko PB. (2021). [Egg masses and larval development of the Antarctic cephalaspidean snail *Waegelea antarctica* (Cephalaspidea: Antarctophilinidae), with notes on egg masses of the related *Antarctophiline alata*.](https://academic-oup-com.eres.library.manoa.hawaii.edu/mollus/article/87/3/eyab027/6369773) *Journal of Molluscan Studies*. 87(3).  
 
-**Ely T**, Barber PH, Man L, Gold Z. (2021). Short-lived detection of an introduced vertebrate eDNA signal in a nearshore rocky reef environment. *PLOS ONE* 16(6): e0245314. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245314)
+**Ely T**, Barber PH, Man L, Gold Z. (2021). [Short-lived detection of an introduced vertebrate eDNA signal in a nearshore rocky reef environment.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245314) *PLOS ONE* 16(6): e0245314.  
 
-Blanchette A<sup>1</sup>, **Ely T<sup>1</sup>**, Zeko A<sup>1</sup>, Sura S, Turba R, Fong P. (2019). Damselfish Stegastes nigricans increase algal growth within their territories on shallow coral reefs likely via enhanced nutrient supplies. *Journal of Experimental Marine Biology and Ecology*. 513: 21-26  [Link](https://www-sciencedirect-com.eres.library.manoa.hawaii.edu/science/article/pii/S0022098118304520)\
+Blanchette A<sup>1</sup>, **Ely T<sup>1</sup>**, Zeko A<sup>1</sup>, Sura S, Turba R, Fong P. (2019). [Damselfish Stegastes nigricans increase algal growth within their territories on shallow coral reefs likely via enhanced nutrient supplies.](https://www-sciencedirect-com.eres.library.manoa.hawaii.edu/science/article/pii/S0022098118304520) *Journal of Experimental Marine Biology and Ecology*. 513: 21-26\
 <sup>1</sup>  = co-first authors
 <br>
 <br>
