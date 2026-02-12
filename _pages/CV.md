@@ -135,7 +135,7 @@ Carlon Lab, Bowdoin College, Brunswick, Maine
 **Oregon Sea Grant Summer Scholar**\
 June to August 2018\
 Department of Fish and Wildlife (ODFW), Marine Resources Program, Newport, OR  
-  &emsp;- Monitored sea star wasting syndrome (SSWS) 
+  &emsp;- Monitored sea star wasting syndrome (SSWS)  
   &emsp;- Wrote a report about temporal changes in SSWS and biodiversity patterns   
   &emsp;- Expanded the monitoring program through successful collaborations  
   &emsp;- Led a team of 3-7 staff and volunteers during intertidal field sampling  
