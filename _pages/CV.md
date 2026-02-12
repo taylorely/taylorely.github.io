@@ -118,7 +118,7 @@ May 2018:		[“Investigating Temporal Variation of eDNA in a Marine Environment�
 
 **Graduate Research Assistant**\
 August 2019  to current\
-Marko Lab, University of Hawaiʻi at Mānoa, Honolulu, Hawaiʻi
+Marko Lab, University of Hawaiʻi at Mānoa, Honolulu, Hawaiʻi  
   &emsp;- Collected and processed ~2,000 eDNA samples for biogeography and population genetics analyses  
   &emsp;- Wrote a population genetics pipeline in R for eDNA samples  
   &emsp;- Simulated larval dispersal into the Hawaiian Archipelago using python and OceanParcels   
@@ -127,14 +127,14 @@ Marko Lab, University of Hawaiʻi at Mānoa, Honolulu, Hawaiʻi
 	
 **Research Technician**\
 February to June 2019\
-Carlon Lab, Bowdoin College, Brunswick, Maine
+Carlon Lab, Bowdoin College, Brunswick, Maine  
   &emsp;- Processed parrotfish gut samples for MiSeq and qPCR   
   &emsp;- Created a protocol for laboratory and bioinformatics analysis designed for undergraduate students  
   &emsp;- Managed lab upkeep including ordering supplies   
 
 **Oregon Sea Grant Summer Scholar**\
 June to August 2018\
-Department of Fish and Wildlife (ODFW), Marine Resources Program, Newport, OR
+Department of Fish and Wildlife (ODFW), Marine Resources Program, Newport, OR  
   &emsp;- Monitored sea star wasting syndrome (SSWS) 
   &emsp;- Wrote a report about temporal changes in SSWS and biodiversity patterns   
   &emsp;- Expanded the monitoring program through successful collaborations  
@@ -142,20 +142,20 @@ Department of Fish and Wildlife (ODFW), Marine Resources Program, Newport, OR
 
 **Undergraduate Research Assistant**\
 October 2015 to June 2018\
-Barber Lab, University of California Los Angeles, Los Angeles, California
+Barber Lab, University of California Los Angeles, Los Angeles, California  
   &emsp;- Collected, processed, and analyzed eDNA samples  
   &emsp;- Extracted seagrass DNA for genomic analyzes   
 
 **Invertebrate Zoology Intern**\
 June to August 2017\
-Meyer Lab, Smithsonian National Museum of Natural History, Washington D.C
+Meyer Lab, Smithsonian National Museum of Natural History, Washington D.C  
   &emsp;- Extracted tissue samples from ARMS across Indonesia  
   &emsp;- Prepped samples for Sanger sequencing  
   &emsp;- Assembled and analyzed sequence chromatograms using Geneious  
 
 **Public Programs Intern**\
 May 2015 to May 2016\
-Santa Monica Pier Aquarium, Santa Monica, CA
+Santa Monica Pier Aquarium, Santa Monica, CA  
   &emsp;- Organized monthly scientific talks  
   &emsp;- Created advertisements, social media posts, and displays using Canva  
   &emsp;- Helped found the seabirds program  
