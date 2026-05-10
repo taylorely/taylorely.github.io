@@ -13,9 +13,7 @@ click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/asse
 <br>
 <h1 align="center">Taylor Ely</h1>
 <p align="center">
-	3598 Alani Drive, Honolulu, HI 96822
-	<br>
-	(310) 245-0207
+	School of Life Sciences, University of Hawai'i at Mānoa
 	<br>
 	tely@hawaii.edu
  </p>
