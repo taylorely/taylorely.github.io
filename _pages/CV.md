@@ -140,8 +140,8 @@ Blanchette A<sup>1</sup>, **Ely T<sup>1</sup>**, Zeko A<sup>1</sup>, Sura S, Tur
 <br>
 <br>
 <h1>Presentations</h1>
-
-May 2026:	“Larval Journals: Where do Hawaiian marine species come from and where do they go?” Albert L. Tester Memorial Symposium. Honolulu, HI.  
+  
+May 2026:		"Larval Journeys: Where do Hawaiian marine species come from and where do they go?" Albert L. Tester Memorial Symposium. Honolulu, HI. 
 
 Apr 2025:		[“Population Genetics of Marine Species in Hawai‘i using eDNA”](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/Testers_2025.pdf). Albert L. Tester Memorial Symposium. Honolulu, HI.  *Honorable mention, Best graduate student talk*
 
