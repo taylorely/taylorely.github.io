@@ -1,4 +1,3 @@
-<img width="468" height="45" alt="image" src="https://github.com/user-attachments/assets/5cb01dd0-dd93-41ea-a814-65c4d83c2ad4" />---
 title: "CV"
 permalink: /CV/
 layout: splash
