@@ -166,12 +166,9 @@ May 2018:		[“Investigating Temporal Variation of eDNA in a Marine Environment�
 <br>
 <h1>Teaching</h1>
 
-April 2025 to current: **Undergraduate Mentoring** ,University of Hawaiʻi at Mānoa\
-Advising a student working with eDNA data in R to investigate life history’s influence on detections  
-
 July 2024: **Environmental DNA team leader**, *R/V Thompson*\
 Larvae Across the Pacific Research Cruise\
-Trained and supervised a team of undergraduates and post-baccs to process environmental DNA samples  
+Trained and supervised a team of undergraduates and post-baccs to process environmental DNA samples, ongoing mentorship for one of the post-baccs
 
 August 2019 to May 2020: **Teaching Assistant**, University of Hawaiʻi at Mānoa\
 Classes: Ecology and Evolutionary Biology Lab, Invertebrate Biology		
