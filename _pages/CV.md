@@ -216,11 +216,10 @@ UH News Article from September 2024 [Link](https://www.hawaii.edu/news/2024/09/0
 <br>
 <br>
 <h1>Other Certifications and training</h1>
-
-	AAUS Scientific Diver (2016)  
-	ZOOL 750: An Introduction to place-based methodologies in Hawaiʻi  
-	NREM 691: People and the Sea  
-	PEPS 662: Systematics and Phylogenetics  
+  &emsp;- AAUS Scientific Diver (2016)  
+  &emsp;- ZOOL 750: An Introduction to place-based methodologies in Hawaiʻi  
+  &emsp;- NREM 691: People and the Sea  
+  &emsp;- PEPS 662: Systematics and Phylogenetics  
 <br>
 <br>
 <br>
