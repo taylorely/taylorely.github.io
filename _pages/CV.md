@@ -1,4 +1,4 @@
----
+<img width="468" height="45" alt="image" src="https://github.com/user-attachments/assets/5cb01dd0-dd93-41ea-a814-65c4d83c2ad4" />---
 title: "CV"
 permalink: /CV/
 layout: splash
@@ -7,7 +7,7 @@ header:
 
 ---
 
-click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/CV_ElyTD_2026.pdf) for a pdf version of my CV
+click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/CV_ElyTD.pdf) for a pdf version of my CV
 <br>
 <br>
 <br>
@@ -38,10 +38,60 @@ Senior Honors Thesis: *Investigating Temporal Variation in a Marine Environment*
 <br>
 <br>
 <br>
+<h1>Employment and research experience</h1>
+
+**Graduate Research Assistant**\
+August 2019  to current\
+Marko Lab, University of Hawaiʻi at Mānoa, Honolulu, Hawaiʻi  
+  &emsp;- Collected and processed ~2,000 eDNA samples for biogeography and population genetics analyses  
+  &emsp;- Wrote a population genetics pipeline in R for eDNA samples  
+  &emsp;- Simulated larval dispersal into the Hawaiian Archipelago using python and OceanParcels   
+  &emsp;- Ran population genomic analyses on urchin tissue samples  
+  &emsp;- Used restriction enzymes to identify illegal eel species in markets  
+	
+**Research Technician**\
+February to June 2019\
+Carlon Lab, Bowdoin College, Brunswick, Maine  
+  &emsp;- Processed parrotfish gut samples for MiSeq and qPCR   
+  &emsp;- Created a protocol for laboratory and bioinformatics analysis designed for undergraduate students  
+  &emsp;- Managed lab upkeep including ordering supplies   
+
+**Oregon Sea Grant Summer Scholar**\
+June to August 2018\
+Department of Fish and Wildlife (ODFW), Marine Resources Program, Newport, OR  
+  &emsp;- Monitored sea star wasting syndrome (SSWS)  
+  &emsp;- Wrote a report about temporal changes in SSWS and biodiversity patterns   
+  &emsp;- Expanded the monitoring program through successful collaborations  
+  &emsp;- Led a team of 3-7 staff and volunteers during intertidal field sampling  
+
+**Undergraduate Research Assistant**\
+October 2015 to June 2018\
+Barber Lab, University of California Los Angeles, Los Angeles, California  
+  &emsp;- Collected, processed, and analyzed eDNA samples  
+  &emsp;- Extracted seagrass DNA for genomic analyzes   
+
+**Invertebrate Zoology Intern**\
+June to August 2017\
+Meyer Lab, Smithsonian National Museum of Natural History, Washington D.C  
+  &emsp;- Extracted tissue samples from ARMS across Indonesia  
+  &emsp;- Prepped samples for Sanger sequencing  
+  &emsp;- Assembled and analyzed sequence chromatograms using Geneious  
+
+**Public Programs Intern**\
+May 2015 to May 2016\
+Santa Monica Pier Aquarium, Santa Monica, CA  
+  &emsp;- Organized monthly scientific talks  
+  &emsp;- Created advertisements, social media posts, and displays using Canva  
+  &emsp;- Helped found the seabirds program  
+<br>
+<br>
+<br>
 <h1>Publications</h1>
 
 **Ely TD**, Marko PB. In Review. Resolving emergent patterns in community genetics with environmental
-DNA.  
+DNA. *Molecular Ecology*    
+
+Nichols PK, Fumo JT, Lopes Jr KH, **Ely TD**, Nash EN, Timmers MA, Sherwood AR, and Marko PB. (2026). When cryptogenic species are also cryptic: reframing biogeographic uncertainty in the environmental DNA era. *Biology Letters* 22.4  
 
 Nichols PK, Sherwood AR, Fraiola KM, **Ely TD**, Hauk BB, Counsell CW, Porter ML, Marko PB. (2025). [Detection of a Non-Indigenous Marine Macroalga (*Acanthophora spicifera*) With Environmental DNA From Surface Seawater.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aff2.70135) *Aquaculture, Fish and Fisheries* 5, no. 6: e70135. 
 
@@ -93,6 +143,8 @@ Blanchette A<sup>1</sup>, **Ely T<sup>1</sup>**, Zeko A<sup>1</sup>, Sura S, Tur
 <br>
 <h1>Presentations</h1>
 
+May 2026:	“Larval Journals: Where do Hawaiian marine species come from and where do they go?” Albert L. Tester Memorial Symposium. Honolulu, HI.  
+
 Apr 2025:		[“Population Genetics of Marine Species in Hawai‘i using eDNA”](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/Testers_2025.pdf). Albert L. Tester Memorial Symposium. Honolulu, HI.  *Honorable mention, Best graduate student talk*
 
 Feb 2025:		[“Analysis of eDNA as a community genetics tool”](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/NewZealandeDNAPresentation25.pdf) 2nd Australian & New Zealand Environmental DNA (eDNA) Conference. Wellington, New Zealand.
@@ -111,54 +163,6 @@ Dec 2025:		[“Marine Community Genetics: A Test in the Hawaiian Islands”](htt
 Aug 2018:		[“Monitoring Sea Star Wasting in Oregon’s Marine Reserves”](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/Poster_SeaGrant.pdf). Oregon Sea Grant Final Symposium. Newport, OR.
 
 May 2018:		[“Investigating Temporal Variation of eDNA in a Marine Environment”](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/assets/Ely_Taylor_904409316_FINAL.pdf). UCLA’s Annual Biology Research Symposium. Los Angeles, CA. *3rd place Undergraduate Poster*
-<br>
-<br>
-<br>
-<h1>Experience</h1>
-
-**Graduate Research Assistant**\
-August 2019  to current\
-Marko Lab, University of Hawaiʻi at Mānoa, Honolulu, Hawaiʻi  
-  &emsp;- Collected and processed ~2,000 eDNA samples for biogeography and population genetics analyses  
-  &emsp;- Wrote a population genetics pipeline in R for eDNA samples  
-  &emsp;- Simulated larval dispersal into the Hawaiian Archipelago using python and OceanParcels   
-  &emsp;- Ran population genomic analyses on urchin tissue samples  
-  &emsp;- Used restriction enzymes to identify illegal eel species in markets  
-	
-**Research Technician**\
-February to June 2019\
-Carlon Lab, Bowdoin College, Brunswick, Maine  
-  &emsp;- Processed parrotfish gut samples for MiSeq and qPCR   
-  &emsp;- Created a protocol for laboratory and bioinformatics analysis designed for undergraduate students  
-  &emsp;- Managed lab upkeep including ordering supplies   
-
-**Oregon Sea Grant Summer Scholar**\
-June to August 2018\
-Department of Fish and Wildlife (ODFW), Marine Resources Program, Newport, OR  
-  &emsp;- Monitored sea star wasting syndrome (SSWS)  
-  &emsp;- Wrote a report about temporal changes in SSWS and biodiversity patterns   
-  &emsp;- Expanded the monitoring program through successful collaborations  
-  &emsp;- Led a team of 3-7 staff and volunteers during intertidal field sampling  
-
-**Undergraduate Research Assistant**\
-October 2015 to June 2018\
-Barber Lab, University of California Los Angeles, Los Angeles, California  
-  &emsp;- Collected, processed, and analyzed eDNA samples  
-  &emsp;- Extracted seagrass DNA for genomic analyzes   
-
-**Invertebrate Zoology Intern**\
-June to August 2017\
-Meyer Lab, Smithsonian National Museum of Natural History, Washington D.C  
-  &emsp;- Extracted tissue samples from ARMS across Indonesia  
-  &emsp;- Prepped samples for Sanger sequencing  
-  &emsp;- Assembled and analyzed sequence chromatograms using Geneious  
-
-**Public Programs Intern**\
-May 2015 to May 2016\
-Santa Monica Pier Aquarium, Santa Monica, CA  
-  &emsp;- Organized monthly scientific talks  
-  &emsp;- Created advertisements, social media posts, and displays using Canva  
-  &emsp;- Helped found the seabirds program  
 <br>
 <br>
 <br>
@@ -181,6 +185,9 @@ Classes: Ecology and Evolutionary Biology Lab, Invertebrate Biology
 **Professional**  
 
 2023 to 2026: **Reviewer** for manuscripts submitted to *Marine Ecology Progress Series*, *Molecular Ecology Resources*, *Proceedings of the Royal Society B: Biological Sciences*, *Aquatic Conservation: Marine and Freshwater Ecosystems*\
+
+2025 to 2026:	**Volunteer** for Albert L. Tester Memorial Symposium, University of Hawaiʻi at Mānoa\
+Helped set up symposium, ran AV for sessions, ran timing for sessions
 
 2025 to 2026: **Student Social Chair**, School of Life Sciences, University of Hawaiʻi at Mānoa\
 Co-led weekly pau hana events to foster community and informal engagement among graduate students and faculty  
@@ -213,16 +220,12 @@ UH News Article from September 2024 [Link](https://www.hawaii.edu/news/2024/09/0
 <br>
 <br>
 <br>
-<h1>Selected Graduate Courses Taken</h1>
+<h1>Other Certifications and training</h1>
 
-An Introduction to place-based methodologies in Hawaiʻi; People and the Sea; Population Genetics; Systematics and Phylogenetics; Biological and Physical Oceanography; Advanced Statistics in R 
-<br>
-<br>
-<br>
-<h1>Certifications</h1>
-
-- Scientific Diving certified since 2016: 112 scientific dives
-- CPR, AED, and First Aid certified 
+	AAUS Scientific Diver (2016)  
+	ZOOL 750: An Introduction to place-based methodologies in Hawaiʻi  
+	NREM 691: People and the Sea  
+	PEPS 662: Systematics and Phylogenetics  
 <br>
 <br>
 <br>
