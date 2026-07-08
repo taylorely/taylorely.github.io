@@ -86,9 +86,8 @@ Santa Monica Pier Aquarium, Santa Monica, CA
 <br>
 <h1>Publications</h1>
 
-**Ely TD**, Marko PB. In Review. Resolving emergent patterns in community genetics with environmental
-DNA. *Molecular Ecology*    
-
+**Ely TD**, Marko PB. 2026. Resolving emergent patterns in community genetics with environmental DNA. *Molecular Ecology* 35, no. 13: e70432.  
+    
 Nichols PK, Fumo JT, Lopes Jr KH, **Ely TD**, Nash EN, Timmers MA, Sherwood AR, and Marko PB. (2026). When cryptogenic species are also cryptic: reframing biogeographic uncertainty in the environmental DNA era. *Biology Letters* 22.4  
 
 Nichols PK, Sherwood AR, Fraiola KM, **Ely TD**, Hauk BB, Counsell CW, Porter ML, Marko PB. (2025). [Detection of a Non-Indigenous Marine Macroalga (*Acanthophora spicifera*) With Environmental DNA From Surface Seawater.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aff2.70135) *Aquaculture, Fish and Fisheries* 5, no. 6: e70135. 
