@@ -23,7 +23,7 @@ click [here](https://github.com/taylorely/taylorely.github.io/blob/gh-pages/asse
 
 University of Hawaiʻi at Mānoa\
 PhD Candidate in Zoology\
-Expected January 2027\
+Expected May 2027\
 current GPA: 4.0\
 Thesis: *Connectivity of Marine Communities in the North Central Pacific*, Advisor: Dr. Peter Marko
 
